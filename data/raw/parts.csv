@@ -305,6 +305,7 @@ part_num,name,part_cat_id,part_material_id
 10905,Sticker Sheet for Set 9468-1,58,1
 10907,Minifig Headgear Helmet Space with Open Face and Top Hinge,65,1
 10907pr0001,Minifig Headgear Helmet Space with Open Face and Top Hinge with Silver Edges with Black Marks Print (War Machine),65,1
+10907pr0002,Minifig Headgear Helmet Space with Open Face and Top Hinge with Silver Edges Print (Silver Centurion),65,1
 10908pr0001,Headwear Accessory Visor Top Hinge with Gold Face Shield and White Eyes Print (Iron Man),27,1
 10908pr0002,"Headwear Accessory Visor Top Hinge with Gold Face Shield, Blue Eyes and Silver Chin Print (Iron Man)",27,1
 10908pr0003,Headwear Accessory Visor Top Hinge with Silver Face Shield and White Eyes Print (War Machine),27,1
@@ -313,6 +314,7 @@ part_num,name,part_cat_id,part_material_id
 10908pr0006,"Headwear Accessory Visor Top Hinge with Gold Face Shield, Black Lines on Forehead and White Eyes Print (Iron Man)",27,1
 10908pr0007,"Headwear Accessory Visor Top Hinge with Gold Face Shield, Silver Sides, Black Lines on Forehead and White Eyes Print (Iron Man)",27,1
 10908pr0008,Headwear Accessory Visor Top Hinge with Gold Face Shield and Bright Light Blue Eyes Print (Iron Man),27,1
+10908pr0009,"Headwear Accessory Visor Top Hinge with Light Bluish Grey Face Shield, Black Line, White Eyes Print Silver Centurion)",65,1
 10908pr0010,Headwear Accessory Visor Top Hinge with Blue and White Eyes and Gold Face Shield and Black Lines Print (Space Iron Man),27,1
 10908pr0011,"Headwear Accessory Visor Top Hinge with Copper Face Shield, White Eyes and 4 Rivets Print (Scuba Iron Man)",27,1
 10908pr0012,"Headwear Accessory Visor Top Hinge with Silver Face Shield, Red Eyes and Black Lines and Shapes Print (War Machine)",27,1
@@ -376,6 +378,7 @@ part_num,name,part_cat_id,part_material_id
 11094,"Wheel Hard Plastic, Treaded with 7 Pin Holes and 6 Small Holes",29,1
 11096,Weapon Axe Head with Twin-Blade,27,1
 11097,"Minifig Neckwear Armour Shoulder Pads with 1 Stud on Front, 2 Studs on Back",27,1
+11097pr0001,"Minifig Neckwear Armour Shoulder Pads with 1 Stud on Front, 2 Studs on Back, Dark Red Shoulders print",27,1
 11098,"Minifig Neckwear Armour Breastplate with Shoulder Pads, 1 Front Stud and 2 Back Studs",27,1
 11100,Wing Feathered,27,1
 11101pat0001,Minifig Neckwear Animal Tail with Marbled Medium Dark Flesh Pattern,27,1
@@ -710,6 +713,8 @@ part_num,name,part_cat_id,part_material_id
 11477pr0007,Slope Curved 2 x 1 No Studs [1/2 Bow] with 7 Arrows print,37,1
 11477pr0008,Slope Curved 2 x 1 No Studs [1/2 Bow] with Yellow Flames print,37,1
 11477pr0009,"Slope Curved 2 x 1 No Studs [1/2 Bow] with Yellow Eye, Red Stripes print",37,1
+11477pr0010,Slope Curved 2 x 1 No Studs [1/2 Bow] with print,37,1
+11477pr0011,Slope Curved 2 x 1 No Studs [1/2 Bow] with print,37,1
 11478,Technic Beam 1 x 5 Thin with Axle Holes on Ends,51,1
 1151M,Modulex Brick 1 x 5 with M on Stud,66,1
 1152M,Modulex Brick 2 x 5 with M on Studs,66,1
@@ -720,6 +725,7 @@ part_num,name,part_cat_id,part_material_id
 11538pr0004,Minifig Helmet Rebel with Check Protectors with Resistance A-wing Pilot Print,65,1
 11538pr0005,Minifig Helmet Rebel with Check Protectors with Green Ear Pieces Print,65,1
 11538pr0006,Minifig Helmet Rebel with Check Protectors with Dark Red Ear Pieces Print,65,1
+11538pr0007,"Minifig Helmet Rebel with Check Protectors (Star Wars) with Dark Blue Ear Pieces, Trans-Black Visoe - A-Wing Pilor",65,1
 11568,Squirrel with 1.5 Hole in Tail [Plain],24,1
 11568pr0001,Squirrel with Blue/Green Eyes Print,28,1
 11568pr0002,Squirrel with Face Decoration Print,28,1
@@ -912,6 +918,7 @@ part_num,name,part_cat_id,part_material_id
 11841c03,Duplo Car Base 2 x 6 - 4 White Wheels with Black Tires on 2 Fixed Axles,4,1
 11841c04,Duplo Car Base 2 x 6 - 4 White Wheels with Dark Azure Tires on 2 Fixed Axles,4,1
 11841c05,Duplo Car Base 2 x 6 - 4 White Wheels with Red Tires on 2 Fixed Axles,4,1
+11843,Sticker Sheet for Set 60001-1,58,1
 11846,Sticker Sheet for Set 60017-1,58,1
 11854,Duplo Candle with Flame Print,4,1
 11891,Minifig Hair Swept Back with Long Beard,65,1
@@ -1415,6 +1422,9 @@ part_num,name,part_cat_id,part_material_id
 14718,Panel 1 x 4 x 2 with Side Supports - Hollow Studs,23,1
 14718pr0001,Panel 1 x 4 x 2 with Side Supports - Hollow Studs,23,1
 14718pr0002,"Panel 1 x 4 x 2 with Side Supports with Shopping Cart, Bananas, Bag print",23,1
+14718pr0004,"Panel 1 x 4 x 2 with Side Supports with Black Line, Smile print",23,1
+14718pr0005,"Panel 1 x 4 x 2 with Side Supports with Smile, Teeth print",23,1
+14718pr0006,"Panel 1 x 4 x 2 with Side Supports  with Open Mouth, Teeth",23,1
 14718pr003,Panel 1 x 4 x 2 with Side Supports - Hollow Studs with 'Ice Cream' print,23,1
 14719,Tile 2 x 2 Corner,19,1
 14720,Technic Beam 3 x 5 Thick [90° Offset Centre Beam Holes],55,1
@@ -1463,6 +1473,7 @@ part_num,name,part_cat_id,part_material_id
 14769pr0018,Tile Round 2 x 2 with Bottom Stud Holder with Light Blue Circular Lines and Dots on Blue Background with Orange Lightning Bolt Print,67,1
 14769pr0019,Tile Round 2 x 2 with Bottom Stud Holder with Light Bluish Gray Circular Lines and Dots on White Background with Orange Triangle Print,67,1
 14769pr0020,"Tile Round 2 x 2 with Open Mouth, White Lips, Fangs, Tongue print",67,1
+14769pr0021,Tile Round 2 x 2 with Black and White Circle/Dot print (Eye),67,1
 14769pr0080,Tile Round 2 x 2 with Black Spiral Print,67,1
 14769pr028,Tile Round 2 x 2 with Bottom Stud Holder with Brown Paw Print,67,1
 14769pr086,Tile Round 2 x 2 with Bottom Stud Holder with Tie Fighter Mechanical Print,67,1
@@ -3282,7 +3293,7 @@ part_num,name,part_cat_id,part_material_id
 2009656,Lego Education Activity Pack for Early Machines Set (CD-ROM),17,1
 20105,Weapon Crossbow Shooter,27,1
 20135,Sticker Sheet for Set 70223-1,58,1
-20137,Sticker for Set 70224-1 - International Version - (20137/6103453),58,1
+20137,Sticker Sheet for Set 70224-1,58,1
 20149pr0001,"Minifig Head Special, Simpsons, Groundskeeper Willie with Red Beard, Eyebrows and Hair Print",59,1
 20151pr0001,"Minifig Head Special, Simpsons, Comic Book Guy with Black Mouth Line and Dark Orange Hair Print",59,1
 20152pr0001,"Minifig Head Special, Simpsons, Waylon Smithers with Glasses and Dark Tan Hair Print",59,1
@@ -3509,6 +3520,8 @@ part_num,name,part_cat_id,part_material_id
 21019c00pat003pr1641,"Legs and Hips with Dark Green Boots Pattern with Metal Plating, Knee Caps",61,1
 21019c00pat003pr1667,"Legs and Hips with Dark Green Boots and Black Belt, Gray Plaid, Black Toes Print",61,1
 21019c00pat004,Legs and Hips with Black Boots Pattern,61,1
+21019c00pat004pr0001,"Legs and Hips with Black Boots Pattern and Key Chain, White Toes, White Trim print",61,1
+21019c00pat004pr0002,"Legs and Hips with Black Boots Pattern and Gold Belt, Dark Turquoise/Gold Decorations print",61,1
 21019c00pat004pr0920,Legs and Hips with Black Boots Pattern with 3 Black and Gray Clasps and Black Boots Print,61,1
 21019c00pat004pr0921,Legs and Hips with Black Boots Pattern with Black Stripes Print,61,1
 21019c00pat004pr0982,"Legs and Hips with Black Boots Pattern with Plaid Miniskirt, Dark Brown Tights print",61,1
@@ -3712,6 +3725,7 @@ part_num,name,part_cat_id,part_material_id
 21425,Sticker Sheet for Set 75901-1  (21425/6116449),58,1
 21429,Sticker Sheet for Set 76036-1 (21429/6116455),58,1
 21432,Sticker Sheet for Set 75903 (21432/6116458),58,1
+21434,Sticker Sheet for Set 76039-1,58,1
 21436,Sticker Sheet for Set 75904 (21436/6116460),58,1
 21445,Plate Special 1 x 2 with Wheel Holder,9,1
 2145,"Brick, Arch 2 x 6 x 5 Ornamented",34,1
@@ -4886,6 +4900,7 @@ part_num,name,part_cat_id,part_material_id
 2446px9,Minifig Standard Helmet with Flames Yellow and Orange Print,65,1
 2447,Headwear Accessory Visor For Standard Helmet,27,1
 24470,Sticker Sheet for Set 70601 (24470/6133006),58,1
+24471,Sticker Sheet for Set 70602-1,58,1
 24474,Sticker for Set 70603-1 - Intl Version - (24474/6133013),58,1
 24477,Sticker Sheet for Set 70604 (24477/6133017),58,1
 2447pr0001,Headwear Accessory Visor For Standard Helmet with Rectangular Window Print,27,1
@@ -5580,11 +5595,12 @@ part_num,name,part_cat_id,part_material_id
 263,"Plate Special 1 x 2 with Steam Engine Cylinder, Flat Surfaces",36,1
 26310,Sticker Sheet for Set 70588-1,58,1
 26312,Sticker Sheet for Set 70589-1,58,1
-26317,Sticker Sheet for Set 70591 (26317/6147722),58,1
+26316,Sticker Sheet for Set 70591-1,58,1
 26319,Sticker Sheet for Set 70592-1,58,1
 26320,Sticker Sheet for Set 70593-1,58,1
 26323,Sticker Sheet for Set 70594-1  (26323/6147785) NA,58,1
 26324,Sticker for Set 70595-1 - Int Version - (26324/6147786),58,1
+26326,Sticker Sheet 1 for Set 70596-1,58,1
 26337,"Roof, Tattered, Patched, with Corner Holes",38,1
 2634c01,Window 2 x 8 x 2 Boat with Trans-Light Blue Glass,47,1
 2634c02,Window 2 x 8 x 2 Boat with Trans-Black Glass,47,1
@@ -5895,6 +5911,7 @@ part_num,name,part_cat_id,part_material_id
 27328pat0001,Hose 10L - Flexible Ribbed with 8mm Ends and Blue Center,30,1
 27328pat0002,Hose 10L - Flexible Ribbed with 8mm Ends and Lime Center,30,1
 27329,"Large Figure Hand, Mechanical with Pin Hole and 3mm Bar Slot",41,1
+27359,Sticker Sheet 2 for Set 70596-1,58,1
 2736,Technic Axle Towball,53,1
 2737,"Technic, Steering Arm Large",25,1
 27370pr0003,Duplo Animal Bird with White Chest and Yellow Beak Print,4,1
@@ -6395,7 +6412,7 @@ part_num,name,part_cat_id,part_material_id
 2986,Electric Motor 9V Micromotor 2 x 2,45,1
 29877,Sticker for 42061 (29877/6176293),58,1
 2989,Technic Brick 1 x 4 with Bumper Holder,26,1
-29896,Sticker for Set 42062-1 (29896/6176304),58,1
+29896,Sticker Sheet for Set 42062-1,58,1
 298c01,Lever Small Base with Yellow Lever,32,1
 298c02,Lever Small Base with Black Lever,32,1
 298c03,Lever Small Base with Light Gray Lever,32,1
@@ -6979,7 +6996,7 @@ part_num,name,part_cat_id,part_material_id
 3009apr0001,Brick 1 x 6 without Bottom Tubes with Cross Side Supports with thin Black 'TAXI´S' Print,11,1
 3009apr0002,Brick 1 x 6 without Bottom Tubes with Cross Side Supports with cursive Black 'automatiek' Print,11,1
 3009apr0003,Brick 1 x 6 without Bottom Tubes with Cross Side Supports with Red 'POST' Thin Slanted Print,11,1
-3009apr0004,LegoBrick 1 x 6 without Bottom Tubes with Cross Side Supports with Green 'Kino' Script Print,11,1
+3009apr0004,Brick 1 x 6 without Bottom Tubes with Cross Side Supports with Green 'Kino' Script Print,11,1
 3009b,"Brick 1 x 6 with Bottom Tubes, with 2 Lowered Cross Supports",11,1
 3009p01,Brick 1 x 6 with Black Car Grill Print,11,1
 3009p01e,Brick 1 x 6 with Black Car Grille Print (Embossed Print),11,1
@@ -7505,6 +7522,7 @@ part_num,name,part_cat_id,part_material_id
 30248,Helicopter Skid Rails 12 x 6,35,1
 30249,Slope 55° 1 x 6 x 5,3,1
 30249ps0,Slope 55° 1 x 6 x 5 with Red and Dark Gray Print,3,1
+3024pr0001,Plate 1 x 1 with Black Line print,14,1
 3024pr0003,Plate 1 x 1 with Minecraft Steve Eyes Print,14,1
 3024pr0004,Plate 1 x 1 with Minecraft Steve Nose and Mouth Print,14,1
 3024pr0005,Plate 1 x 1 with 2 Black Rectangles Print (Minecraft Zombie Eyes),14,1
@@ -8725,6 +8743,7 @@ part_num,name,part_cat_id,part_material_id
 3068bpr2562,Tile 2 x 2 with Circle inside Square Print,19,1
 3068bpr382,Tile 2 x 2 with 3 Frogs and Curved Arrow Print,19,1
 3068bpr980,Tile 2 x 2 with Pink Pet Paw with Heart and Gold Scrolls Pattern,19,1
+3068bpr9982,Tile 2 x 2 with 2 Black Stripes print,19,1
 3068bpr9983,Tile 2 x 2 with Nya Face print,19,1
 3068bpr9984,Tile 2 x 2 with Kai Face print,19,1
 3068bpr9985,Tile 2 x 2 with Master Wu Face print,19,1
@@ -8890,6 +8909,7 @@ part_num,name,part_cat_id,part_material_id
 3069bpr0015,Tile 1 x 2 with Dark Bluish Gray Thick and Thin Lines Print,19,1
 3069bpr0016,"Tile 1 x 2 with Black ""POLICE"" and Red Line Print",19,1
 3069bpr0017,Tile 1 x 2 with White '2018' Print,19,1
+3069bpr0018,Tile 1 x 2 with Iron Man Armor print,19,1
 3069bpr0030,Tile 1 x 2 with Computer Keyboard Standard Print,19,1
 3069bpr0055,Tile 1 x 2 with Script and Seal Print,19,1
 3069bpr0070,"Tile 1 x 2 with Avionics Copper, Red & Silver Print",19,1
@@ -9040,6 +9060,7 @@ part_num,name,part_cat_id,part_material_id
 3069bpr0280,Tile 1 x 2 with Black Chinese Writing,19,1
 3069bpr0281,Tile 1 x 2 with Gold Chinese/Mandarin 'Happiness' Writing,19,1
 3069bpr0725,Tile 1 x 2 with Groove with Cell Phone and Dark Red Ghost Print,19,1
+3069bpr9988,Tile 1 x 2 with Noodle Sore Logo print,19,1
 3069bpr9989,"Tile 1 x 2 with Letter, Wax Seal print",19,1
 3069bpr9990,Tile 1 x 2 with Two Dark Pink Squares,19,1
 3069bpr9991,Tile 1 x 2 with Chinese Geometric Print,19,1
@@ -9095,6 +9116,7 @@ part_num,name,part_cat_id,part_material_id
 3070bph0,Tile 1 x 1 with Spider Print,19,1
 3070bph1,Tile 1 x 1 with Blue Book Print,19,1
 3070bpr0001,Tile 1 x 1 with Dark Bluish Gray Square with Black Center and Lines Print (Ultra Chip) (70161),19,1
+3070bpr0002,"Tile 1 x 1 with Iron Man Armour, Hexagonal Arc Reactor print",19,1
 3070bpr0007,Tile 1 x 1 with White and Red Gauge Print,19,1
 3070bpr0058,Tile 1 x 1 with Magic Compass Print,19,1
 3070bpr0063,Tile 1 x 1 with letter Capital A Print,19,1
@@ -10659,10 +10681,12 @@ part_num,name,part_cat_id,part_material_id
 33989,Stickersheet for set 70361-1 (33989/6192558),58,1
 33990,Sticker Sheet for Set 70354-1 (33990/6192570),58,1
 33993,Minifig Hair Dreadlocks with Beads and Dark Red Brocade Bandana Print (Captain Jack),65,1
+33994,Sticker Sheet 1 for Set 41239-1,58,1
 33a,"Door 1 x 2 x 3 Right (old type) with Solid Studs, without Glass",16,1
 33ac01,Door 1 x 2 x 3 Right (old type) with Solid Studs and Fixed Glass,16,1
 33bc01,Door 1 x 2 x 3 Right (old type),16,1
 33bc02,"Door 1 x 2 x 3 Right with Glass, without Small Hole on Top",16,1
+34003,Sticker Sheet 2 for Set 41239-1,58,1
 34004,"Large Figure Skirt, 2 Holes, Tear-drop Cut Out",38,3
 34009,Sticker Sheet for Set 70914-1,58,1
 34024,Sticker Sheet for Set 60169-1,58,1
@@ -11163,6 +11187,7 @@ part_num,name,part_cat_id,part_material_id
 36036pr0014,Hips and Legs Under Dress/Robe with Armour Scales print,61,1
 36036pr0015,Hips and Legs Under Dress/Robe with Red/Dark Azure Stripes Pattern print,61,1
 36036pr0016,"Hips and Legs Under Dress/Robe with White Dress, Dark Tan/Reddish Brown Underdress print",61,1
+36036pr0017,Hips and Legs Under Dress/Robe with Gold Trim print,61,1
 36037,Minifig Hair Mid-Length Combed Behind Ear,65,1
 36038pr0001,"Minifig Head Special, Wookie with Shoulders and Chest, Dark Orange Fur Print (Chewbacca)",59,1
 36038pr0002,"Minifig Head Special, Wookie with Shoulders and Chest, Ammo Belt and Goggles Print (Chewbacca)",59,1
@@ -12985,6 +13010,7 @@ part_num,name,part_cat_id,part_material_id
 3626cpr1737,"Minifig Head Plant Monster, Mouth Open Scared, White Pupils and Raised Eyebrows Print [Hollow Stud]",59,1
 3626cpr1738,"Minifig Head, Brown Eyebrows, Freckles, Smile Open Mouth / Scared Crooked Mouth",59,1
 3626cpr1739,"Minifig Head Dr Wu, Dual Sided, Thick Eyebrows, Mouth and Chin Dimple, Open Smile / Raised Eyebrow Print [Hollow Stud]",59,1
+3626cpr1740,"Minifig Head Brown Eyebrows, Freckles, Smile Open Mouth",59,1
 3626cpr1741,"Minifig Head Shaggy, Dual Sided, Eyebrows, Chin Stubble, Open Mouth Grin / Sad Face Print [Hollow Stud]",59,1
 3626cpr1742,"Minifig Head Headless Horseman (Elwood Crane), Balaclava, Light Bluish Gray Face with Puffy Cheeks, Blue Goggles Print [Hollow Stud]",59,1
 3626cpr1743,"Minifig Head Vampire (Bob Oakley), Dual Sided, Fangs, Yellow Eyes, Mouth Open / Balaclava, Light Flesh Face with Thick Eyebrows Print [Hollow Stud]",59,1
@@ -13991,6 +14017,16 @@ part_num,name,part_cat_id,part_material_id
 3626cpr3192,"MINI HEAD, NO. 3192",13,1
 3626cpr3193,"MINI HEAD, NO. 3193",13,1
 3626cpr3195,"Minifig Head Nindroid, Dark Purple Lines, Red Eye, Gritted Teeth, Silver Armored Right Side Print",59,1
+3626cpr9829,"Minifig Head Monkey, Open Mouth",59,1
+3626cpr9830,"Minifig Head Black Eyebrows, Angry",59,1
+3626cpr9831,"Minifig Head Red Lips, Gold Pendant, Angry,",59,1
+3626cpr9832,"Minifig Head Dark Red Eyebrows, Black Low Sunglasses",59,1
+3626cpr9833,"Minifig Head Black Eyebrows, Mean Smirk",59,1
+3626cpr9834,"Minifig Head Female, Smirk",59,1
+3626cpr9835,"Minifig Head Closed Eyes, Ope Mouth, Marking Under Eyes",59,1
+3626cpr9836,"Minifig Head Scared, Open Mouth, Teeth, Sweat Drop",59,1
+3626cpr9837,Minifig Head Smirk,59,1
+3626cpr9838,"Minifig Head Mustache, Goatee, Black Eye (Tony Stark)",59,1
 3626cpr9839,"Minifig Head Black Spots, Yellow Eyes, Fangs",59,1
 3626cpr9840,"Minifig Head Jay, Light Yellow Eyes and Headband, Triangles, Smile / Open Mouth and Closed Eyes",59,1
 3626cpr9841,"Minifig Head Red/Gray Beard, Eye Patch, Reddish Brown Mustache (Redbeard)",59,1
@@ -14484,6 +14520,7 @@ part_num,name,part_cat_id,part_material_id
 37352,Brick Curved 1 x 2 x 1 No Studs,37,1
 3736,"Technic, Steering Pulley Large",25,1
 37364,Legs and Hips Medium [Complete Assembly],61,1
+37364pr0001,Legs and Hips Medium with Pockets print,61,1
 37364pr0004,Legs and Hips Medium with Dark Bluish Gray Lines Print,61,1
 37364pr0005,Legs and Hips Medium with Dark Red Lines/Robes Print,61,1
 37364pr0008,Legs and Hips Medium with Dark Red Scarf Print,61,1
@@ -14688,7 +14725,7 @@ part_num,name,part_cat_id,part_material_id
 3831stk01,Sticker for Set 3831 - (61873/4520096),58,1
 3832,Plate 2 x 10,14,1
 38320,Bars For Window 1 x 2 x 2,16,1
-3833,Minifig Construction Helmet,65,1
+3833,Minifig Construction Helmet / Hard Hat,65,1
 38331,Stickersheet for set 76102-1 (38331/6224161),58,1
 38339,"Train Wheel RC Train, Holder, Open Axle Holder",36,1
 3834,Minifig Helmet Fire,65,1
@@ -15081,6 +15118,7 @@ part_num,name,part_cat_id,part_material_id
 397,Baseplate 10 x 16,1,1
 39739,Tile 1 x 1 Special Heart,15,1
 39739pr0001,Tile 1 x 1 Special Heart with Clock Print,15,1
+39739pr0002,Tile 1 x 1 Special Heart with print,15,1
 39754,Sticker Sheet for 21311-1,58,1
 39765,Sticker Sheet for Set 75956-1 (39765/6237726),58,1
 39766,Sticker for Set 75955-1 - (39766/6237722),58,1
@@ -15593,7 +15631,8 @@ part_num,name,part_cat_id,part_material_id
 40925pat0008pr0001,Minifig Wrap with Orange Band with Black Asian Symbol print,65,1
 4093,Train Base 6 x 28 with Two 1 x 2 Cutouts [Undetermined Number of Round Holes],24,1
 40933pr0001,"Dragon Head White Teeth, Gold Eyes, Dark Green Tribal Decoration",28,1
-40934pr0001,"Dargon Head Lower Jaw, White Teeth, Dark Green Beard",28,1
+40934pr0001,"Dragon Head Lower Jaw, White Teeth, Dark Green Beard",28,1
+40934pr0002,"Dragon Head Lower Jaw with White Teeth, Yellow Goatee",28,1
 40938,"Minifig Hair, Scruffy and Swept Right",65,1
 4093a,Train Base 6 x 28  with Two 1 x 2 Cutouts [3 Round Holes Each End],36,1
 4093b,Train Base 6 x 28 with Two 1 x 2 Cutouts [10 Round Holes Each End and 1 Round Hole at Center],36,1
@@ -15640,7 +15679,7 @@ part_num,name,part_cat_id,part_material_id
 41159pat0001,Weapon Naginata with Rubber Tip and Trans Blue Blade,27,1
 41160pr0079,"Duplo Figure, with Helmet, Black Legs, Black Jacket with Safety Harness, White Helmet with Silver Fire Badge and Radio, Brown Eyes (Firefighter)",57,1
 41160pr0088,"Duplo Figure, with Helmet, Black Legs, Black Jacket with Red Safety Harness, White Helmet with Silver Fire Badge, Green Eyes, Stubble (Firefighter)",57,1
-41162,Minifig Shoulder Guard,65,1
+41162,Minifig Neckwear Shoulder Guard,27,1
 41163,Minifig Head Wraps with Flames [Plain],65,1
 41163pat0001,"Minifig Head Wraps with Flames, Trans-Bright Green",65,1
 41163pat0002,"Minifig Head Wraps with Flames, Trans-Light Blue",65,1
@@ -17233,7 +17272,7 @@ part_num,name,part_cat_id,part_material_id
 45402px1,Door Frame 2 x 8 x 8 with Red Brick Print [4657],16,1
 45402px2,Door Frame 2 x 8 x 8 with Red Curtains Print [4860],16,1
 45402px3,Door Frame 2 x 8 x 8 with Blinds and Menu Print [4655],16,1
-45403,"Brick, Modified 5 x 12 with Two 1 x 2 Cutouts, 3 Holes on Side",11,1
+45403,"Brick Special 5 x 12 with Two 1 x 2 Cutouts, 3 Holes on Side",5,1
 45403c01,"Brick Special 5 x 12 with Two 1 x 2 Cutouts, 1 Hole and 2 Fixed Rotatable Friction Pins on Side",5,1
 45405,Roof Piece 16 x 4 x 5,3,1
 45406,Windscreen 4 x 6 x 4 Cab with Hinge and 1 x 4 Bottom Cutout,47,1
@@ -17830,6 +17869,7 @@ part_num,name,part_cat_id,part_material_id
 4651886,Eye Bandage with Multi-Colour Spots Print,38,1
 46524,Brick Special 2 x 6 With Light And Sound Functions,45,1
 4653,Duplo Winch Wide Drum,4,1
+465340001,"Minifig Helmet with Antennae and Headphones and Black Visor, Gold/Green Decorations (Mei)",65,1
 46534pr0235,Minifig Helmet with Antennae and Large Red Eyes with Black Outline,65,1
 46534pr0252,Minifig Helmet with Antennae and Headphones and Trans-Red Visor (Ant-man),65,1
 46534pr0259,Minifig Helmet with Antennae and Black Visor Print,65,1
@@ -17998,6 +18038,7 @@ part_num,name,part_cat_id,part_material_id
 47407,Wedge Plate 4 x 6,49,1
 47408,Duplo Cone 2 x 2 Square Base,4,1
 47408pr0002,Duplo Cone 2 x 2 Square Base with Black Stripes Print,4,1
+47409999,Dish 2 x 2 Inverted [Radar] with Dark Bluish Grey Pattern print,21,1
 4740pb01,Dish 2 x 2 Inverted [Radar] with Lace and Flower Print,21,1
 4740pb02,Dish 2 x 2 Inverted [Radar] with HP Clock Top Print,21,1
 4740pr0001,Dish 2 x 2 Inverted [Radar] with Spider Web print,21,1
@@ -18868,6 +18909,7 @@ part_num,name,part_cat_id,part_material_id
 49917,CD-ROM Onewa IN/AM,17,1
 49949,Fuselage 6 x 10 x 4 Round,47,1
 49986pr0001,"Cat Standing with Dark Red Spiky Mohawk and Collar, Bandages and Dark Brown Stripes Print",28,1
+49986pr0002,"Cat Standing with Bright Light Orange Spiky Mohawk and Collar, Bright Light Orange Stripes print",28,1
 4999stk01,Sticker for Set 4999 (63551/4529157),58,1
 4j001,Minifig - 4 Juniors,13,1
 4j002,Minifig - 4 Juniors,13,1
@@ -19256,7 +19298,6 @@ part_num,name,part_cat_id,part_material_id
 51409,Duplo Light Brick 2 x 2 with White Button,4,1
 51440,"Minifig Hair Long, Spikes",65,1
 51450,"Bat, with Bar, No Head",28,1
-51488,"Wheel 43,2 X 26",29,1
 51509,Clikits Icon - 11mm Base - Polished (Transparent Colors Only),48,1
 51542,Baseplate Raised 32 x 48 x 6 with Level Front,1,1
 51546,Duplo Train Locomotive Cabin Roof 2 x 4 Studs,4,1
@@ -19801,7 +19842,7 @@ part_num,name,part_cat_id,part_material_id
 54651pr0002,Duplo Animal Penguin with White and Yellow Chest Print,4,1
 54675,SPIKE Large Angular Motor,45,1
 54690,"Electric Converter Cable, Mindstorms NXT 35cm",45,1
-54696,Spike Medium Motor,45,1
+54696,SPIKE Medium Motor,45,1
 54701c01,Aircraft Fuselage Curved Aft Section with Light Bluish Gray Base,47,1
 54701c01pb01,"Aircraft Fuselage Curved Aft Section with Light Bluish Gray Base, Dark Bluish Gray & Blue Stripes Print",47,1
 54701c02,Aircraft Fuselage Curved Aft Section with Dark Bluish Gray Base,47,1
@@ -19869,6 +19910,8 @@ part_num,name,part_cat_id,part_material_id
 54873pr0007,"Minifig Head Special, Starfish with Sunglasses Print (Patrick)",59,1
 54874pr0001,"Minifig Head Special, Mr. Krabs with Closed Mouth Print",59,1
 54874pr0002,"Minifig Head Special, Mr. Krabs with Large Grin Print",59,1
+54890a,Sticker Sheet for Set 8369-1,58,1
+54890b,Sticker for Set 8369-2,58,1
 54937,"Large Figure Limb Cover, Leg Shin Guard, Armour (Type 2)",41,1
 54950c02,Electric 9V Battery Box 4 x 11 x 7 with Orange Switch and Dk Bluish Gray Covers Complete Assembly Power Functions,45,1
 55000,Sticker Sheet for Set 3568-1,58,1
@@ -19986,7 +20029,7 @@ part_num,name,part_cat_id,part_material_id
 56604,Sticker Sheet for Set 7897-1,58,1
 56619,Equipment Handcuffs Long [Batman],27,1
 56628,Sticker Sheet for Set 8682-1,58,1
-56630,"Neckwear Cape, Scalloped 5 Points [Traditional Starched Fabric]",38,3
+56630,"Neckwear Cape, Scalloped 5 Points [Traditional Starched Fabric]",38,1
 56630pat0001,"Neckwear Cape, Scalloped 5 Points with Black Back [Traditional Starched Fabric]",38,1
 56630pat0002,"Neckwear Cape, Scalloped 5 Points with Metallic Gold Back [Traditional Starched Fabric]",38,1
 56647,Sticker Sheet for Sets 2928-1 and 2928-2,58,1
@@ -21225,6 +21268,8 @@ part_num,name,part_cat_id,part_material_id
 6180pr0004,"Tile Special 4 x 6 with Studs on Edges with Treasure Chest, Space Helmet, and Book Print",15,1
 6180pr0005,"Tile Special 4 x 6 with Studs on Edges with ""International Space Station"" print and picture.",9,1
 6180pr0006,Tile Special 4 x 6 with Studs on Edges with LEGO STAR WARS BOBA FETT print,15,1
+6180pr0007,Tile Special 4 x 6 with Studs on Edges with 'LEGO STARWARS STORMTROOPER' print,15,1
+6180pr0008,Tile Special 4 x 6 with Studs on Edges with 'LEGO STAR WARS TIE FIGHTER PILOT' print,15,1
 6181,Belville Swimming Pool,42,1
 61810,Bionicle Weapon Mistika Nynrah Ghost Blaster Air Pump,36,1
 61811,"Large Figure Weapon Ammo, Mistika Nynrah Ghost Blaster",41,1
@@ -22062,6 +22107,7 @@ part_num,name,part_cat_id,part_material_id
 649pb11,Road Sign Triangle with Pedestrian Crossing 1 Person Print,38,1
 650,Hinge Coupling - Nylon,18,1
 65004,"Maxifig Arm, Right with Yellow Elbow Pad, Black Wrist",60,1
+65018,Sticker Sheet for Set 41379-1,58,1
 6504,Duplo Video Camera,4,1
 6505,Duplo Trailer with Hitch Ends,4,1
 6505pr0001,Duplo Trailer with Hitch Ends and Green and Red Stripe Print,4,1
@@ -22177,6 +22223,8 @@ part_num,name,part_cat_id,part_material_id
 65425pr0001,Minifig Hair Ponytail High with Red Band,65,1
 65425pr0002,Minifig Hair Ponytail High with Dark Red Band,65,1
 65426,Wedge Plate 2 x 4 27° Right,49,1
+65428,Dragon Head (Ninjago) [PLAIN],28,1
+65428pr0001,"Dragon Head (Ninjago) with White Teeth, Yellow/Dark Red Markings print",28,1
 65429,Wedge Plate 2 x 4 27° Left,49,1
 6542a,Technic Gear 16 Tooth with Clutch [Toothed],52,1
 6542b,Technic Gear 16 Tooth with Clutch [Smooth],52,1
@@ -22345,6 +22393,7 @@ part_num,name,part_cat_id,part_material_id
 66244pr0001,"Minifig Helmet with Ears, and Cheetah Spots Print",65,1
 66259,Sticker Sheet for Set 60258-1,58,1
 6625stk01,Sticker for Set 6625 - (170874/821408),58,1
+6626,"Plate Special, 2 x 2 Bottom of 9V Cable Connector",45,1
 6626.1stk01,Sticker for Set 6626-1 - (4403),58,1
 66264,Sticker Sheet for Set 75271-1,58,1
 66265,Sticker Sheet for Set 71700-1,58,1
@@ -22424,6 +22473,7 @@ part_num,name,part_cat_id,part_material_id
 66565pr0004,"Microdoll Body Long Dress with White Dress, Gold Decorations, Lavender Band",13,1
 66565pr0005,"Microdoll Body Long Dress with Bright Pink Dress, White Under Dress, Dark Pink Trim",13,1
 66565pr0006,"Microdoll Body Long Dress with Bright Yellow Dress, Gold Trim  Pendant",13,1
+66606,Windscreen 6 x 3 x 10 with 4 Studs on Top,47,1
 66611,Sticker Sheet for Set 76140-1,58,1
 66618,Sticker Sheet for Set 76141-1,58,1
 66627,Sticker Sheet for Set 76142-1,58,1
@@ -22480,6 +22530,9 @@ part_num,name,part_cat_id,part_material_id
 67040pr0001,"Sea Turtle with Black Eyes, Medium Dark Flesh Shell print",28,1
 67062pr0001,"Hand Right, Glove, Infinity Gauntlet with Silver Panels Print",60,1
 67067,Sticker Sheet for Set 30342-1,58,1
+67095,Tile Round 3 x 3,67,1
+67095pr0001,"Tile Round 3 x 3 with Green, Black, White Circles print (Eye)",67,1
+67095pr0002,"Tile Round 3 x 3 with Brown, White, Black Circles print (Eye)",67,1
 671,Door 1 x 6 x 10,16,1
 67113,Sticker Sheet for Set 31104-1,58,1
 67137,Sticker Sheet for Set 60257-1,58,1
@@ -22523,6 +22576,8 @@ part_num,name,part_cat_id,part_material_id
 6821,Scala Baseplate 44 x 22 with 4 holes,42,1
 6821b,Scala Baseplate 44 x 22 with 8 holes,42,1
 68300,Sticker Sheet for Set 42111-1,58,1
+68325,Brick Round 4 x 4 with Recessed Center,20,1
+68327,Wheel 41 x 15,29,1
 6836,Scala Wall Panel 5 x 6 with Four Studs,42,1
 6837stk01,Sticker for Set 6837,58,1
 68389,"Minifig Helmet Cyborg Side Open with Hair, Red Square Eye and Red Dot Print",65,1
@@ -22536,6 +22591,7 @@ part_num,name,part_cat_id,part_material_id
 6851,Duplo Baseplate 12 x 16,4,1
 6853,Container Storage Case Build-N-Store Chest Divider,17,1
 6854stk02,"Sticker for Set 6854 - Sheet 2, Holographic Stars (170900)",58,1
+68568,Plate Round Corner 3 x 3 with 2 x 2 Round Cutout,21,1
 6857stk01,Sticker for Set 6857 - (75012/4659242),58,1
 6859,Scala Window Frame 14 x 3 x 15 1/3,42,1
 685p01,Homemaker Figure Head with Face Print,59,1
@@ -22765,6 +22821,7 @@ part_num,name,part_cat_id,part_material_id
 71785,Sticker Sheet 1 for Set 3211-1,58,1
 71793,IR Transmitter Tower Serial Cable,45,1
 71797,Cybermaster Unit,45,1
+71799,Sticker Sheet for Set 8213-1,58,1
 71824,Sticker Sheet for Sets 3038-1 and 8266-1,58,1
 71825,Sticker Sheet for Set 8417-1 and 8430-1,58,1
 71829,Sticker Sheet for Set 9490-1,58,1
@@ -23819,6 +23876,7 @@ part_num,name,part_cat_id,part_material_id
 85964pr0003,Duplo Cloth Blanket 5 x 6 with White Polka Dots Print,4,3
 85964pr0004,Duplo Cloth Blanket 5 x 6 with White Stars Print,4,3
 85964pr0005,Duplo Cloth Blanket 5 x 6 with Rapunzel Sun print,4,3
+85964pr0006,Duplo Cloth Blanket 5 x 6 with Triangles Print,4,3
 85966,Duplo Brick 2 x 6 with 'Welcome To Great Waterton' Sign Print,4,1
 85969,Wheel Cover 5 Spoke Thick [Fits 56145],29,1
 85970,Brick Curved 10 x 1 [Asymmetric Inside Ridges],37,1
@@ -25771,6 +25829,7 @@ part_num,name,part_cat_id,part_material_id
 93606pr0001,Slope Curved 4 x 2 No Studs with Smiling Mouth Right Half Print (L. McQueen),37,1
 93606pr0002,Slope Curved 4 x 2 No Studs with Smiling Mouth Left Half Print (L. McQueen),37,1
 93606pr0003,Slope Curved 4 x 2 No Studs with Yellow Boost Start Button Print,37,1
+93606pr0004,Slope Curved 4 x 2 No Studs with Light Bluish Grey Square print,37,1
 93607,Duplo Brick 8 x 12 with 1 x 2 Indents on Ends (5931 Container Top),4,1
 93608,Brick Special 16 x 24 x 2 with 1 x 4 Indents on Ends (5932 Container Top),5,1
 93609,Arm Skeleton [Bent / 2 Clips],60,1
@@ -26984,6 +27043,8 @@ part_num,name,part_cat_id,part_material_id
 970c00pr6630,"Legs and Hips with Black Sash, Armor, Blue Knee Straps and Black Zoris Print",61,1
 970c00pr970c00pr9870,Legs and Hips with Tattered Knees and Light Bluish Gray Stitching Jeans Print,61,1
 970c00pr9744,Legs and Hips with Dollar Bills Print,61,1
+970c00pr9866,"Legs and Hips Red Straps, Purple Belt, Knee Caps, Steel Toes",61,1
+970c00pr9867,"Legs and Hips Green Straps, Gold Trim",61,1
 970c00pr9868,Hips and Legs Gold Armour (Wonder Woman),61,1
 970c00pr9869,"Hips and Legs Leopard Print, Claws",61,1
 970c00pr9870,Legs and Hips Ninjago,61,1
@@ -27152,6 +27213,7 @@ part_num,name,part_cat_id,part_material_id
 970x001pb06,Legs and White Hips with White Lab Coat/Buttons Print (Mad Scientist),61,1
 970x001pb13,"Legs and White Hips with White Leggings, Puttees Thin Wrap Print",61,1
 970x001pb18,Legs and White Hips with White Gymnast Leotard with Red and Blue (Team GB Logo) Print,61,1
+970x001pr0001,"Legs and White Hips, White Straps, A-Wing Pilot",61,1
 970x001pr0113,Legs and White Hips with White Leggings Print,61,1
 970x001pr0163,Legs and White Hips with Gold Cord Trimmed Pharaoh's Tunic Print,61,1
 970x001pr0250,Legs and White Hips with Luke Bacta Tank Print,61,1
@@ -27936,6 +27998,7 @@ part_num,name,part_cat_id,part_material_id
 973p51c01,Torso Space Blacktron II Print / Black Arms / Black Hands,60,1
 973p52,Torso Space Blacktron I Print,60,1
 973p52c01,Torso Space Blacktron I Print / Black Arms / Black Hands,60,1
+973p52c02,Torso Space Blacktron I Print / Black Arms / Yellow Hands,60,1
 973p54,"Minifig Torso with UFO Alien Orange and Silver Print u.f.o., Space,four pips",60,1
 973p55,Minifig Torso with Explorien Logo Print exploriens,60,1
 973p60,Torso Shell Logo Large Print,60,1
@@ -29005,7 +29068,7 @@ part_num,name,part_cat_id,part_material_id
 973pr1190c01,Torso Town Vest Formal with Bow Tie Print / White Arms / Yellow Hands,60,1
 973pr1192c01,Torso Town Vest with Pockets and Striped Tie Print / White Arms / Yellow Hands,60,1
 973pr1196c01,"Torso Chef with 8 Buttons, Long Red Neckerchief Print / White Arms / Yellow Hands",60,1
-973pr1197c01,"Torso Town Prisoner Number 50380, Dark Bluish Gray Stripes, Buttons, Hairy Chest Print / White Arms / Yellow Hands",60,1
+973pr1197c01,"Torso Town Prisoner Number 50380, Dark Bluish Gray Stripes, 5 Buttons, Hairy Chest Print / White Arms / Yellow Hands",60,1
 973pr1201c01,Torso Train Blue Striped Overalls Print / White Arms / Dark Bluish Gray Hands,60,1
 973pr1204c01,Torso Paradisa Sailboat with Sunset Print / Yellow Arms / Yellow Hands,60,1
 973pr1208c01,"Torso Security Guard, Gold Badge, Blue Belt w/Radio Print / Dark Bluish Gray Arms / Black Hands",60,1
@@ -31350,7 +31413,7 @@ part_num,name,part_cat_id,part_material_id
 973pr4197c01,"Minifig Torso - Jay 70642-1 Ninjago Suit with Belt, Pockets",60,1
 973pr4199c01,"Minifig Torso Doctor Lab Coat, Stethoscope, Pocket, Pens, Blue Shirt",60,1
 973pr4200c01,"Minifig Torso Reddish Brown Overall, White Shirt, Name Tag Print, White Arms, Yellow Hands",60,1
-973pr4201c01,Minifig Torso Prisoner White/Light Grey Striped Shirt '50380',60,1
+973pr4201c01,"Minifig Torso Prisoner White/Light Grey Striped Shirt '50380', 6 Buttons",60,1
 973pr4203c01,"Minifig Torso Tuxedo Blue Tie, Buttons",60,1
 973pr4204c01,"Torso Jacket with White Undershirt, Pockets and Red Pen, with 2 Orange Stripes Print, Blue Arms, Yellow Hands",60,1
 973pr4205c01,"Minifig Torso Hawaii Shirt, Palm trees, Sunset",60,1
@@ -32047,6 +32110,24 @@ part_num,name,part_cat_id,part_material_id
 973pr9,Minifig Torso with SW Imperial Grand Moff Print,60,1
 973pr9698c01,"Torso Suit Jacket with Black Shirt and Tie, Gold Chain and Dollar Bills Print, Green Arms with Dollar Bills Print, Light Flesh Hands",60,1
 973pr9699c01,"Black Torso Batman Logo with Muscles and Roman Breastplate Print, Light Flesh Arms and Hands",60,1
+973pr9718c01,Minifig Torso Gold/Red/Dark Turquoise Decorations (Monkie Kid),60,1
+973pr9719c01,"Minifig Torso Golden Symbol, Armour, Pearl Dark Gray Arms",63,1
+973pr9720c01,"Minifig Torso Dark Turquoise Vest, White Shirt with Gold Trim",60,1
+973pr9721c01,"Minifig Torso Light Azure Jacket, Red/Yellow Shirt, White Snaps",60,1
+973pr9722c01,"Minifig Torso Red Tunic, Gold Trim, Gold Belt, Bare Tummy",60,1
+973pr9723c01,"Minifig Torso Chef Shirt, Bright Pink Hands",60,1
+973pr9724c01,"Minifig Torso Silver Necklace, Pendant, Orange Lightning (Red Son)",63,1
+973pr9725c01,"Minifig Torso Golden Symbol, Armour, Magenta Arms (Snort, Bob)",60,1
+973pr9726c01,Minifig with Green Dragon,60,1
+973pr9727c01,"Minifig Torso White Shirt with Stains, Red Pen, Unbuttoned",60,1
+973pr9728c01,"Minifig Torso, Orange Jacket with Patches, White Shirt",60,1
+973pr9729c01,Minfig Torso A-Wing Pilot,60,1
+973pr9730c01,"Minifig Torso Dark Blue Vest, Light Bluish Gray Scarf",60,1
+973pr9731c01,"Minifig Torso Chef Suit, 8 Buttons, Red Neckerchief, '2012 The LEGO Store Vancouver, BC' on Back",60,1
+973pr9732c01,"Minifig Torso Top with Medium Blue Trim and Flowers '2012 The LEGO Store Vancouver, BC' on Back",60,1
+973pr9733c01,Minifig Torso 'LEGO House Home of the Brick' on Front,60,1
+973pr9734c01,"Minifig Torso Armor, Arc Reactor print (Silver Centurion)",60,1
+973pr9735c01,Minifig Torso Purple Shirt with Black Buttons (Professor Snape),60,1
 973pr9736c01,Minifig Torso Gold Armour (Wonder Woman),60,1
 973pr9737c01,"Minifig Torso Leopard Print, White Fur",60,1
 973pr9738c01,"Minifig Torso Red Jacket, White Shirt, Dark Brown Belt, Yellow Necklace, Pirate",60,1
@@ -32510,6 +32591,7 @@ part_num,name,part_cat_id,part_material_id
 973px91c01,"Torso Time Cruisers Red Bow Tie, Pencil and Pocket Watch Print / White Arms / Yellow Hands",60,1
 973px92c01,"Torso Space Insectoids Silver Circuitry, Lightning Bolts over Blue Circle Print / Black Arms / Blue Hands",60,1
 973px96c01,"Torso Divers Dolphin Logo, Yellow Triangles, and Gauges Print / Black Arms / Black Hands",60,1
+973px97c01,Torso Divers Dolphin Logo and Yellow Triangles Pattern / Black Arms / Yellow Hands,60,1
 973px98c01,Torso Divers Dolphin Logo and Fish Print / Yellow Arms / Yellow Hands,60,1
 973px99c01,"Torso Castle Ninja Armor Plate, Blue Collar Print (Samurai) / Red Arms / Yellow Hands",60,1
 973px9c01,"Torso Police Leather Jacket, Yellow Star Badge Print / Black Arms / Black Hands",60,1
@@ -32813,6 +32895,13 @@ part_num,name,part_cat_id,part_material_id
 98138pr0150,"Tile Round 1 x 1 with Planet, Rings Print",67,1
 98138pr0151,Tile Round 1 x 1 with Bright Pink / Dark Pink Heart Print,67,1
 98138pr0152,"Tile Round 1 x 1 with White 'FIAT' Logo on Red Field, Black Border",67,1
+98138pr0153,Tile Round 1 x 1 with Green Eye print,67,1
+98138pr0154,Tile Round 1 x 1 with Reddish Brown Eye print,67,1
+98138pr0155,"Tile Round 1 x 1 with Reddish Brown Eye Center, Yellow Eyelid print",67,1
+98138pr0156,"Tile Round 1 x 1 with Green Eye, Yellow Eyelid print",67,1
+98138pr0157,"Tile Round 1 x 1 with Reddish Brown Eye Off-Center, Yellow Eyelid print",67,1
+98138pr0158,Tile Round 1 x 1 with print,67,1
+98138pr0159,Tile Round 1 x 1 with print,67,1
 98138pr9996,Tile Round 1 x 1 with Monster Eye Print,67,1
 98138pr9997,Tile Round 1 x 1 with Closed BrickHeadz Eye Print,67,1
 98138pr9998,Tile Round 1 x 1 with Ninjago Trapped Cole Print (70600-1),67,1
@@ -34316,6 +34405,7 @@ dupupn0105c02,Duplo Rattle Circular with Red/Blue Wheels,4,1
 dupupn0106pr0001,"Duplo 2 x 2 Round Cake with Stud on Top, Strawberry Print",4,1
 dupupn0106pr0002,"Duplo 2 x 2 Round Cake with Stud on Top, Rainbow Print",4,1
 dupupn0106pr0003,"Duplo 2 x 2 Round Cake with Stud on Top, Drizzled Frosting Print",4,1
+dupupn0107pr0001,Duplo Cloth Towel 3 x 6 with Triangles Pattern,4,3
 Eeyore,Duplo Figure Eeyore,57,1
 elephc01pb01,"Duplo Animal Elephant Baby Standing, Round Eye Print",4,1
 eraser07,"Eraser, Clikits White with 'Heart' Image Sleeve",48,1
@@ -34946,7 +35036,7 @@ u1126,Hinge Plate  1 x  2 with 2 Fingers at Outer Edges,18,1
 u-2694,Star Wars Episode III Collectors' Poster - (Set 65771),17,1
 u9017,Plane Jet Engine with Plate  2 x  2,24,1
 u9023c01,Electric  4.5V Battery Box  7 x 11 x  3 Type 2 (Complete),45,1
-u9119c01,"Plant, Flat Horse Chestnut Tree with Hollow Base, Coloured Trunk",28,1
+u9119c01,Flat Horse Chestnut Tree with Solid Base,28,1
 u9137,Train Track 12V Tapered Crossing,36,1
 u9143,Fabuland Fireman's Helmet,65,1
 u9154,Fabuland Policeman/Postman's Cap,65,1
@@ -35016,8 +35106,6 @@ upn0040,"Flower 4 x 4 Felt, Square Hole",17,3
 upn0041,"Big Figure Road Hog Black Vest, Sand Blue Legs",13,1
 upn0042,"Pencil Topper, Integrated 2x2 Plate",9,1
 upn0043,Felt Heart Large with Square Hole,38,3
-upn0044,"Dragon Head with White Teeth, Yellow/Dark Red Markings print",28,1
-upn0045,"Dragon Lower Jaw with White Teeth, Yellow Goatee",28,1
 upn0046pr0001,"Wing, Tail, with Fire Logo Print (Fire Helicopter)",38,1
 upn0046pr0002,"Wing, Tail, with 'Police', Gold Star Print (PoliceHelicopter)",38,1
 upn0047,"Sail 33 x 17 Trapezium with 4 Holes, Red Stripes print",38,1
@@ -35025,7 +35113,50 @@ upn0048,"Sail 36 x 20 Trapezium with 4 Holes, Red Stripes print",38,1
 upn0049,"Sail 19 x 17 Square with 4 Holes, Red Stripes print",38,1
 upn0050,"Sail Triangular 16 x 24 with 6 Holes, Red Stripes print",38,1
 upn0051,Minifig Pirate Hat with Bright Light Yellow Ponytail,65,1
+upn0052,Bar 1L with 3 Sprouts/Prongs,32,1
+upn0053,Hose Pneumatic 4 mm D V2 200mm,30,1
+upn0054,"Minifig Mace Windu, Light Up Light Saber",13,1
+upn0055,Minifig Anakin Skywalker with Light-up Lightsaber,13,1
+upn0056,Troll Clothing Loincloth,38,1
+upn0057,Minifig Obi-Wan Kenobi with Light-Up Lightsaber,13,1
+upn0058,Troll Clothing Vest,38,1
+upn0059,Minion Body [PLAIN],13,1
+upn0059pr0001,"Minion Body, Blue Pants print",13,1
+upn0059pr0002,"Minion Body, Bright Light Blue Pajamas print",13,1
+upn0059pr0003,"Minion Body, Bright Light Orange print",13,1
+upn0060,"Minion Head Medium, 1-Eyed Goggles [PLAIN]",13,1
+upn0060pr0001,"Minion Head Medium, 1-Eyed Goggles, Open Mouth Smile print",13,1
+upn0060pr0002,"Minion Head Medium, 1-Eyed Goggles, Smile, Hair print",13,1
+upn0061,"Minion Head Low, 2-Eyed Goggles",13,1
+upn0062,Minifig Arm with Pin [PLAIN],13,1
+upn0062pr0001,"Minifig Arm with Pin, Black Hand print [PLAIN]",13,1
+upn0062pr0002,"Minifig Arm with Pin, White Hand print",13,1
+upn0062pr0003,"Minifig Arm with Pin, Black Hand, Black Line print",13,1
+upn0064,"Minion Head High, 2-Eyed Goggles, Smile print",13,1
+upn0065,"Minifig Hair Short, Swept Up with Red Head Band",65,1
+upn0065pr0001,"Minifig Hair Short, Swept Up with Red Head Band with Gold Trim/Decoration",65,1
+upn0066,Weapon Hilt Symmetric,27,1
+upn0067,Slope Wedge 4 x 4 with Rod,6,1
+upn0068,Minifig Hair Long with 2 Buns and Green Streaks,65,1
+upn0069,"Panel 2 x 6 x 6 with Slot, 4 Studs on Front",23,1
+upn0071,Neckware Accessorize Headphones,27,1
+upn0072,Wheel with Axle Hole,29,1
+upn0073,Weapon Blade (Monkie Kid),27,1
+upn0074,Helmet with Golden Ring through Nose (Monkie KId),65,1
+upn0076,Cloth  Coat Tail/Skirt,38,3
+upn0077,Minifig Hair Upright Ponytail with Orange Streak,65,1
+upn0078,"Minifig Head Special, Pig",62,1
+upn0079,Motorcycle Chassis Chopper,36,1
+upn0080,"Minifig Hair with Bun, 2 Horns, Golden Tiara",65,1
+upn0081,Cone 2 x 2 with Bend,20,1
+upn0082,Plastic Sheet with Gold Weapon,38,1
+upn0083,Cloth Cape,38,3
+upn0084,Cloth Cape Large,38,3
+upn0085,Plastic Sheet with Red/Dark Turquoise print,38,1
+upn0086,Minifig Neckwear Shoulder Cape,27,1
 upn0183,Sports Hockey Mask 1 with 4 Hole Grille (Set 3545),27,1
+upn074,"BigFig with White Pants, Magenta Beads, Orange Beard",13,1
+upn075,Ring 2 x 2,27,1
 vik028,Viking Red Chess Queen - Portions may be Glued,13,1
 vik029,Viking Blue Chess Queen - Portions may be Glued,13,1
 vik030,Viking Chess Piece Blue Rook - Glued,13,1
@@ -35221,6 +35352,7 @@ x562,Electric Wire Plug,45,1
 x562a,Electric Wire Plug - Single,45,1
 x562b,Electric Wire Plug - Double,45,1
 x564,Train Steam Drive Rod Holder,36,1
+x568,Baseplate 8 x 22,1,1
 x579c02,Electric Train Motor 4.5V 4 x 12 x 4 with Black Base,45,1
 x58px1,"Banner, 16 x 16 with Blue Stripes and Lion Head Shield Print",38,3
 x600,Foam Racers Ramp Base 20 x 20 with Tyre Marks and LEGO Logo,17,1

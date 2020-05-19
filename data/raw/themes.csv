@@ -210,11 +210,6 @@ id,name,parent_id
 214,Creator,207
 215,Pirates,207
 216,Friends,207
-217,Advent Sub-Set,206
-220,City,217
-222,Clikits,217
-223,Creator,217
-226,Friends,217
 227,Christmas,206
 228,Creator,227
 229,Easter,206
@@ -648,3 +643,4 @@ id,name,parent_id
 690,Super Mario,
 691,Harry Potter and Fantastic Beasts Series 2,535
 692,Series 20 Minifigures,535
+693,Monkie Kid,
