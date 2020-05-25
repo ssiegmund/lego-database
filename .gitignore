@@ -185,4 +185,4 @@ Desktop.ini
 
 # exclude data
 #/data/*
-/data/old/*
+/data/processed/old/*
