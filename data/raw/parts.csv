@@ -314,7 +314,7 @@ part_num,name,part_cat_id,part_material_id
 10908pr0006,"Headwear Accessory Visor Top Hinge with Gold Face Shield, Black Lines on Forehead and White Eyes Print (Iron Man)",27,1
 10908pr0007,"Headwear Accessory Visor Top Hinge with Gold Face Shield, Silver Sides, Black Lines on Forehead and White Eyes Print (Iron Man)",27,1
 10908pr0008,Headwear Accessory Visor Top Hinge with Gold Face Shield and Bright Light Blue Eyes Print (Iron Man),27,1
-10908pr0009,"Headwear Accessory Visor Top Hinge with Light Bluish Grey Face Shield, Black Line, White Eyes Print Silver Centurion)",65,1
+10908pr0009,"Headwear Accessory Visor Top Hinge with Light Bluish Grey Face Shield, Black Line, White Eyes Print Silver Centurion)",27,1
 10908pr0010,Headwear Accessory Visor Top Hinge with Blue and White Eyes and Gold Face Shield and Black Lines Print (Space Iron Man),27,1
 10908pr0011,"Headwear Accessory Visor Top Hinge with Copper Face Shield, White Eyes and 4 Rivets Print (Scuba Iron Man)",27,1
 10908pr0012,"Headwear Accessory Visor Top Hinge with Silver Face Shield, Red Eyes and Black Lines and Shapes Print (War Machine)",27,1
@@ -433,9 +433,8 @@ part_num,name,part_cat_id,part_material_id
 11153pr0003,Slope Curved 4 x 1 No Studs with Dragon Eye print [Stud Holder with Symmetric Ridges],37,1
 11153pr0004,Slope Curved 4 x 1 No Studs with Yellow Dragon Eye print [Stud Holder with Symmetric Ridges],37,1
 11156,Weapon Sword (Elven Warrior),27,1
-11164,Hero Factory Brain,41,1
-11164pat01,Hero Factory Brain with Red Centre,41,1
-11164pat02,Hero Factory Brain with Glow in the Dark Centre and Marbled Yellow Pattern,41,1
+11164pat01,Large Figure Head / Brain with Red Centre,41,1
+11164pat02,Large Figure Head / Brain with Glow in the Dark Centre and Marbled Yellow Pattern,41,1
 11169,Duplo Brick 2 x 2 x 1 1/2 with Curve,4,1
 11170,Duplo Brick 2 x 2 x 1 1/2 with Curved Top,4,1
 11170pr0001,"Duplo Brick 2 x 2 x 1 1/2 with Curved Top, and '123' and 'REGULAR' Gas / Fuel / Petrol Pump Print",4,1
@@ -550,7 +549,7 @@ part_num,name,part_cat_id,part_material_id
 11270,Large Figure Head with Handle,41,1
 11271,"Large Figure Torso Cover, Armour with 4 Handles",41,1
 11272,Technic Axle Connector 2 x 3 Quadruple,12,1
-11273,Hero Factory Shield with Half 'H',41,1
+11273,Large Figure Shield / Weapon with Half 'H',41,1
 11275,"Large Figure Mask, Evo",41,1
 11276,"Large Figure Mask, Rocka",41,1
 11277,"Large Figure Mask, Surge",41,1
@@ -1768,14 +1767,14 @@ part_num,name,part_cat_id,part_material_id
 1535,Modulex Baseplate 50 x 50,66,1
 15350,Minifig Helmet Hero Factory (Surge),65,1
 15351,Minifig Helmet Hero Factory (Bulk),65,1
-15353,Hero Factory Complex Cockpit Seat with Ball Joint,41,1
-15354,Hero Factory Jumper Base,41,1
-15355,Hero Factory Jumper Top,41,1
+15353,Large Figure Cockpit Seat with Ball Joint,41,1
+15354,"Large Figure Creature, Jumper Base",41,1
+15355,"Large Figure Creature, Jumper Top",41,1
 15357,"Large Figure Head, Jaw without Axle Hole",41,1
 15357pr0001,"Large Figure Head, Jaw without Axle Hole with Orange Eyes Print",41,1
 15357pr0002,"Large Figure Head, Jaw without Axle Hole with 4 Red Eyes Print",41,1
 15357pr0003,"Large Figure Head, Jaw without Axle Hole with 4 Yellow Eyes Print",41,1
-15358pat0001,Hero Factory Creature Cocoon Petal with Black Base Pattern,41,1
+15358pat0001,Large Figure Creature Cocoon Petal with Black Base Pattern,41,2
 15359,"Large Figure Head, Jaw with Axle Hole [Plain]",41,1
 15359pr0001,"Large Figure Head, Jaw with Axle Hole with 6 Medium Azure Eyes and Black Spots Print",41,1
 15359pr0002,"Large Figure Head, Jaw with Axle Hole with Black and White Eyes and Lime Spots Print",41,1
@@ -1783,7 +1782,7 @@ part_num,name,part_cat_id,part_material_id
 15359pr0004,"Large Figure Head, Jaw with Axle Hole with 12 White and Red Eyes and Gold Markings Print",41,1
 1536,Modulex Baseplate 50 x 100,66,1
 15361,Container Cylindrical 3 X 8 X 5 with Pin Holes,7,1
-15362,Hero Factory Spike Large with Axle Hole,41,1
+15362,Large Figure Limb Cover / Claw / Spike Large with Axle Hole,41,1
 15366,"Large Figure Torso Cover, with Connector for Chi Orb (Zamor Sphere)",41,1
 15367,"Large Figure Foot, with Ball Socket 5 x 6 x 2",41,1
 15368,"Large Figure Weapon Blade, Elaborate with 2 Axles",41,1
@@ -2890,6 +2889,7 @@ part_num,name,part_cat_id,part_material_id
 19000,"HELICOPTER 4X14X5, ASSEMBLY",35,1
 19001,"Vehicle, Tipper Bed 12 x 8 x 5 with Same Colored Hinge Plate",36,1
 19001c01,"Vehicle, Tipper Bed 12 x 8 x 5 with Dark Bluish Gray Hinge Plate",36,1
+190105,Sticker Sheet for Set 269-1,58,1
 19011pr0001,Duplo Animal Duck with Bright Light Orange Bill and Brown Feathers Print,4,1
 19011pr0002,"Duplo Animal Duck with Bright Light Orange Bill, Green Head and Feathers, Dark Red Chest",4,1
 19014,"Minifig Helmet Armor, Shoulder Cover, with Rivets",65,1
@@ -2934,7 +2934,7 @@ part_num,name,part_cat_id,part_material_id
 19082pat0001,Large Figure Mask of Stone with Marbled Trans-Neon Green Pattern,41,1
 19084,Duplo Animal Fish with Thick Tail and Small Tail Fin,4,1
 19086,Technic Beam 5 x 5 x 2 Perpendicular Fork 3 Fingers,55,1
-19087,Bionicle Armor Cover (Toa Okoto),41,1
+19087,"Large Figure Limb / Torso Cover, Armor (Toa Okoto)",41,1
 19089,Large Figure Weapon Axe Blade / Glider Wing,41,1
 19090,Large Figure Weapon Boomerang Half,41,1
 19091,Sticker Sheet for Set 42036-1,58,1
@@ -2961,7 +2961,7 @@ part_num,name,part_cat_id,part_material_id
 19149pat0004,Large Figure Mask Protector with Marbled Trans-Bright Green Pattern (Protector Mask of Jungle),41,1
 19149pat0005,Large Figure Mask Protector with Marbled Trans-Neon Green Pattern (Protector Mask of Stone),41,1
 19149pat0006,Large Figure Mask Protector with Marbled Trans-Dark Blue Pattern (Protector Mask of Water),41,1
-19151,Bionicle Digging Claw / Shovel,41,1
+19151,"Large Figure Weapon, Axe Head Half / Shoulder Cover, Armor",41,1
 19159,Technic Pin Double Triangle 1 x 3 with 2 Clips Not Completely Round Pin Holes,53,1
 19179,Weapon Blade with Bar and 3 Spikes,27,1
 191815,Sticker Sheet for Set 6363-1,58,1
@@ -4142,6 +4142,7 @@ part_num,name,part_cat_id,part_material_id
 2293,Duplo Door / Gate 1 x 3 x 4,4,1
 2294,Duplo Door / Gate / Stabledoor 1 x 4 x 4,4,1
 2295,"Duplo Baseplate Raised 24 x 24 Four Levels, Light Gray 'Mountain', Blue Pond, Green Hills, Light Yellow Slide",4,1
+22956,Sticker Sheet for Set 3149-1,58,1
 22961,Technic Pin Connector Hub with 1 Axle,12,1
 22969,Wheel 62 x 46 Technic Racing Large,29,1
 2296pb01,Duplo Baseplate 16 x 24 with Pond Print,4,1
@@ -4578,8 +4579,8 @@ part_num,name,part_cat_id,part_material_id
 24165pat0002,"Large Figure Weapon Sword, Protector, with Marbled Orange Blade Pattern",41,1
 24165pat0003,"Large Figure Weapon Sword, Protector, with Marbled Bright Green Blade Pattern",41,1
 24165pat0004,"Large Figure Weapon Sword, Protector, with Marbled Lime Blade Pattern",41,1
-24166pr0001,Bionicle Crystal Armor with Marbled Flat Silver Pattern,41,1
-24166pr0002,Bionicle Crystal Armor with Marbled Pearl Gold Pattern,41,1
+24166pr0001,"Large Figure Armor, Crystal with Marbled Flat Silver Pattern",41,1
+24166pr0002,"Large Figure Armor, Crystal with Marbled Pearl Gold Pattern",41,1
 2417,"Plant, Leaves 6 x 5",28,1
 24179,Duplo Cab 4 x 4 x 3 [Plain],4,1
 24179pr0001,Duplo Cab 4 x 4 x 3 with Grill and Lights Print,4,1
@@ -4595,8 +4596,8 @@ part_num,name,part_cat_id,part_material_id
 24183pr0006,"Hamster Black Eyes, Black Nose, Lavender Face",28,1
 24184,Minifig Neckwear Life Jacket,27,1
 24186,Duplo Figure with Fur-lined Hood - Light Flesh Face and Hands - Reddish Brown Parka - Dark Tan Legs,57,1
-24187,HEAD TRIGGER W/ CROSS HOLE NO. 2,41,1
-24188,Bionicle Shadow Trap,41,1
+24187,Large Figure Head Connector Block Eye / Brain Stalk,41,1
+24188,"Large Figure Accessory, Shadow Trap",41,1
 24189,"Large Figure Skeletal, Connector with 2 Ball Joints",41,1
 2418a,Windscreen 6 x 6 Octagonal Canopy without Axle hole,47,1
 2418b,Windscreen 6 x 6 Octagonal Canopy with Axle hole,47,1
@@ -4605,7 +4606,7 @@ part_num,name,part_cat_id,part_material_id
 2418bpx1,Windscreen 6 x 6 Canopy Octagonal with Axle hole and Stingray Print,47,1
 2419,Wedge Plate 3 x 6 Cut Corners,49,1
 24190,"Large Figure Skeletal, Torso, 5 x 10 with 2 Ball Joints, and Gear",41,1
-24191,"Bionicle, Armor Uniter with 2 Pin Holes on Front, Axle and Pin Holes on Sides",41,1
+24191,"Large Figure Torso, Armor Uniter with 2 Pin Holes on Front, Axle and Pin Holes on Sides",41,1
 24192,Large Figure Mask of Control,41,1
 24193pr0001,Large Figure Torso Cover with Red and Medium Azure Armour Print,41,1
 24193pr0002,Large Figure Torso Cover with Dark Blue Armour Print,41,1
@@ -4781,6 +4782,8 @@ part_num,name,part_cat_id,part_material_id
 2431pr0145,Tile 1 x 4 with Black Squares print,19,1
 2431pr0147,Tile 1 x 4 with Yellow 'Service' print,19,1
 2431pr0148,Tile 1 x 4 with Gold Dragon with Dark Blue Background Print,19,1
+2431pr0149,"Tile 1 x 4 with Sián, Unique Code print",19,1
+2431pr0150,Tile 1 x 4 with Dashboard print,19,1
 2431pr0199,Tile 1 x 4 with Laser Engraved MS-XXXXXXXX Code [LEGO Movie],19,1
 2431pr0200,Tile 1 x 4 with Groove and Iron Man Arc Reactor Print,19,1
 2431pr0202,Tile 1 x 4 with Groove and Doctor Strange Beard Print,19,1
@@ -4950,7 +4953,7 @@ part_num,name,part_cat_id,part_material_id
 24527,Sticker Sheet for Set 60122-1,58,1
 24530,Sticker Sheet for Set 60124-1,58,1
 24538,Sticker Sheet for Set 60123-1,58,1
-2453a,Brick 1 x 1 x 5 with Blocked Open Stud,11,1
+2453a,Brick 1 x 1 x 5 with Blocked Open or Hollow Stud,11,1
 2453b,Brick 1 x 1 x 5 with Solid Stud,11,1
 24542,Sticker Sheet for Set 60130 - 24542/6133174,58,1
 2454a,Brick 1 x 2 x 5 with Blocked Open Studs and Bottom Stud Holder with Asymmetric Ridges,11,1
@@ -5302,7 +5305,7 @@ part_num,name,part_cat_id,part_material_id
 25516,Headwear Accessory Crown Long with Bar,27,1
 25517,Sticker Sheet for set 70324 - 25517/6141551,58,1
 2552,Baseplate Raised 32 x 32 with Ramp and Pit [Plain],1,1
-25528,"Bionicle, Headpiece, Jaw",41,1
+25528,"Large Figure Head, Lower Jaw",41,1
 2552p01,"Baseplate Raised 32 x 32 with Ramp and Pit, Ice Print",1,1
 2552p02,"Baseplate Raised 32 x 32 with Ramp and Pit, Crater Print",1,1
 2552p05,"Baseplate Raised 32 x 32 with Ramp and Pit, Rocks Black / Gray Print",1,1
@@ -5313,7 +5316,7 @@ part_num,name,part_cat_id,part_material_id
 25531pat0002,Large Figure Mask of Corruption with Marbled Trans-Neon Green Pattern,41,1
 25532,Large Figure Mask of Control with Marbled Trans-Neon Green Pattern,41,1
 25533,Sticker Sheet for Set 75135-1,58,1
-25534,Bionicle Armor Crystal Cluster,41,1
+25534,"Large Figure Armor, Crystal Cluster",41,1
 2554,Door 1 x 3 x 6 Curved Top,16,1
 25546,Duplo Figure with Blue Hat and Top with Red Bow Tie - White Hips with Bright Light Orange Legs (Donald Duck),57,1
 25548,Duplo Plate 4 x 4 with 16 Studs and Hinge,4,1
@@ -5837,6 +5840,7 @@ part_num,name,part_cat_id,part_material_id
 270pb07,HO Scale Motorcycle with Sidecar Long [Touring],50,1
 270pb08,HO Scale Scooter [Touring],50,1
 2710,Technic Action Figure Lower Body Part,24,1
+27105,Sticker Sheet for Set 40228-1,58,1
 27106,Sticker Sheet for Set 40226-1 (27106/6155616),58,1
 2710L,Modulex Brick 10 x 10 with LEGO on Studs,66,1
 2711,"Technic Plate 1 x 5 with Toothed Ends, 2 Studs and Center Axle Hole",26,1
@@ -6431,6 +6435,7 @@ part_num,name,part_cat_id,part_material_id
 2997,Tyre 81.6 x 34 ZR Technic Straight Tread,29,2
 29976,Sticker Sheet for Set 76077-1,58,1
 2998,Wheel 81.6 x 34 Six Spoke,29,1
+29988pr0001,"Duplo Cloth Blanket 5 x 6, Plush with Triangles Print",4,3
 2998c01,"Wheel 81.6 x 34, with Black Tire 81.6 x 34 Technic (2998 / 2997)",29,1
 2999,Technic Steering Wheel Hub Large,25,1
 29a,"Window 1 x 1 x 2 (old type) with Extended Lip and Solid Stud, no Glass",16,1
@@ -8737,12 +8742,15 @@ part_num,name,part_cat_id,part_material_id
 3068bpr0417,Tile 2 x 2 with Groove and Pixellated Blue and Orange Squares Print,19,1
 3068bpr0418,"Tile 2 x 2 with Diamond on Dark Green Background, Gold Frame print",19,1
 3068bpr0419,"Tile 2 x 2 with Black Chinese/Mandarin Writing 'Happiness', Golden Decorations print",19,1
+3068bpr0424,"Tile 2 x 2 with V12, Carbon Fiber print",19,1
+3068bpr0425,Tile 2 x 2 with Lamborghini print,19,1
 3068bpr0899,Tile 2 x 2 with '2014' Print,19,1
 3068bpr0930,Tile 2 x 2 with Jurassic World Dino Print,19,1
 3068bpr1136,Tile 2 x 2 with 'Rock & Roll' Print,19,1
 3068bpr2562,Tile 2 x 2 with Circle inside Square Print,19,1
 3068bpr382,Tile 2 x 2 with 3 Frogs and Curved Arrow Print,19,1
 3068bpr980,Tile 2 x 2 with Pink Pet Paw with Heart and Gold Scrolls Pattern,19,1
+3068bpr9981,Tile 2 x 2 with Print,19,1
 3068bpr9982,Tile 2 x 2 with 2 Black Stripes print,19,1
 3068bpr9983,Tile 2 x 2 with Nya Face print,19,1
 3068bpr9984,Tile 2 x 2 with Kai Face print,19,1
@@ -9059,8 +9067,9 @@ part_num,name,part_cat_id,part_material_id
 3069bpr0279,"Tile 1 x 2 with Tree, Rainbow, and 'HAPPY' Print",19,1
 3069bpr0280,Tile 1 x 2 with Black Chinese Writing,19,1
 3069bpr0281,Tile 1 x 2 with Gold Chinese/Mandarin 'Happiness' Writing,19,1
+3069bpr0291,Tile 1 x 2 with Carbon Fiber print,19,1
 3069bpr0725,Tile 1 x 2 with Groove with Cell Phone and Dark Red Ghost Print,19,1
-3069bpr9988,Tile 1 x 2 with Noodle Sore Logo print,19,1
+3069bpr9988,Tile 1 x 2 with Pigsy Menu print,19,1
 3069bpr9989,"Tile 1 x 2 with Letter, Wax Seal print",19,1
 3069bpr9990,Tile 1 x 2 with Two Dark Pink Squares,19,1
 3069bpr9991,Tile 1 x 2 with Chinese Geometric Print,19,1
@@ -9216,6 +9225,13 @@ part_num,name,part_cat_id,part_material_id
 3070bpr0212,"Tile 1 x 1 with Light Bluish Grey, Red Triangles print",19,1
 3070bpr0213,Tile 1 x 1 with White Lines/Stripes print,19,1
 3070bpr0214,"Tile 1 x 1 with Light Bluish Grey Lines, Yellow Triangles print",19,1
+3070bpr0219,Tile 1 x 1 with Quarter Circle White Line print,19,1
+3070bpr0220,"Tile 1 x 1 with Blue Square, White Lines print",19,1
+3070bpr0223,Tile 1 x 1 with Quarter Circle White Line print,19,1
+3070bpr9995,Tile 1 x 1 with print,19,1
+3070bpr9996,Tile 1 x 1 with print,19,1
+3070bpr9997,Tile 1 x 1 with print,19,1
+3070bpr9998,Tile 1 x 1 with print,19,1
 3070bpr9999,Tile 1 x 1 with Joker print,19,1
 3070bps0,Tile 1 x 1 with SW Screen Print,19,1
 3070bps1,Tile 1 x 1 with Red and Gray Mini Snowspeeder Print [4486],19,1
@@ -9921,7 +9937,7 @@ part_num,name,part_cat_id,part_material_id
 32165,Technic Block 3 x 6 x 1 & 2/3,12,1
 32166,Technic Gearbox Half,12,1
 32167,Technic Rectangular Gearbox Half,52,1
-32168,Large Figure Arm Forked with Flexible Center and Ball Joint,41,1
+32168,"Large Figure Skeletal, Arm Forked with Flexible Center and Ball Joint",41,1
 32170,Technic Gear Rack Double with Ball Joint,52,1
 32171pb001,"Large Figure Throwing Disk, Bionicle Mask Kakama Print",41,1
 32171pb002,"Large Figure Throwing Disk, Bionicle Mask Akaku Print",41,1
@@ -10309,7 +10325,7 @@ part_num,name,part_cat_id,part_material_id
 32575pb01,Large Figure Mask Mahiki with Marbled Pearl Light Gray Pattern (Ehrye),41,1
 32576,"Large Figure Foot, 3 x 4 1/2 x 2 1/3 with Technic Pin Connector",41,1
 32577,"Large Figure Skeletal, Torso with 3 Pins (Tohunga)",41,1
-32578,Bionicle Tohunga Claw Arm,41,1
+32578,"Large Figure Weapon, Claw Arm (Tohunga)",41,1
 32579,Large Figure Head Connector Block (Tohunga),41,1
 32580,Hose Soft Axle 7,30,1
 32593,Minifig Hair Long Wavy with Center Part and 2 Light Flesh Antennae Print,65,1
@@ -14007,16 +14023,25 @@ part_num,name,part_cat_id,part_material_id
 3626cpr3153,"Minifig Head Douglas Elton / El Fuego, Skeleton, Smiling Face Print",59,1
 3626cpr3160,"Minifig Head General Kozu, Lime Eyes, White Fangs, Red Face Markings, Mouth, Cheek Lines Print",59,1
 3626cpr3166,"Minifig Head Ghost Scrimper, with Bright Light Orange Face, White Eyes, Slime Mouth Print",59,1
+3626cpr3173,"MINI HEAD, NO. 3173",13,1
 3626cpr3174,"MINI HEAD, NO. 3174",13,1
+3626cpr3176,"MINI HEAD, NO. 3176",13,1
 3626cpr3177,"MINI HEAD, NO. 3177",13,1
 3626cpr3178,"MINI HEAD, NO. 3178",13,1
 3626cpr3179,"MINI HEAD, NO. 3179",13,1
 3626cpr3180,"MINI HEAD, NO. 3180",13,1
+3626cpr3181,"MINI HEAD, NO. 3181",13,1
 3626cpr3182,"MINI HEAD, NO. 3182",13,1
 3626cpr3183,"Minifig Head Girl, Eyebrows, Smile, Rainbow and Lavender Stars on Cheeks Print",59,1
+3626cpr3190,"MINI HEAD, NO. 3190",13,1
+3626cpr3191,"MINI HEAD, NO. 3191",13,1
 3626cpr3192,"MINI HEAD, NO. 3192",13,1
 3626cpr3193,"MINI HEAD, NO. 3193",13,1
 3626cpr3195,"Minifig Head Nindroid, Dark Purple Lines, Red Eye, Gritted Teeth, Silver Armored Right Side Print",59,1
+3626cpr3196,"MINI HEAD, NO. 3196",13,1
+3626cpr3210,"MINI HEAD, NO. 3210",13,1
+3626cpr3626,"MINI HEAD, NO. 3626",13,1
+3626cpr9828,"Minifig Head Robot/Droid, Flat Silver Mask, Black Visor",59,1
 3626cpr9829,"Minifig Head Monkey, Open Mouth",59,1
 3626cpr9830,"Minifig Head Black Eyebrows, Angry",59,1
 3626cpr9831,"Minifig Head Red Lips, Gold Pendant, Angry,",59,1
@@ -14966,7 +14991,7 @@ part_num,name,part_cat_id,part_material_id
 39367pat0002,Wheel 57 x 14 with 4 White Spokes with 2 Holes and Black Integral Tire,29,1
 39369,Technic Base Frame 11 x 19,55,1
 3937,Hinge Brick 1 x 2 Base,18,1
-39370,Technic Beam 3 x 5 with Ball And Castor Joint,55,1
+39370,Technic Beam 3 x 5 with Ball And Castor Joint,25,1
 39378pr0011,"Neckwear Cape, Cloak, Iridescent Front, Reddish Brown Design Back Print",38,1
 3938,Hinge Brick 1 x 2 Top Plate Thin,18,1
 39381,"Hipwear Skirt, 4 Holes [10mm]",38,3
@@ -15082,6 +15107,7 @@ part_num,name,part_cat_id,part_material_id
 3960pr0043,"Dish 4 x 4 Inverted [Radar] with White Eyelids with Dark Bluish Gray Stripes, Black Circuitry Iris Print",21,1
 3960pr0050,Dish 4 x 4 Inverted [Radar] with Millennium Falcon Cockpit print,21,1
 3960pr20,Dish 4 x 4 Inverted [Radar] with Dark Purple Octagonal Print,21,1
+3960pr9998,Dish 4 x 4 Inverted [Radar] with Dark Bluish Grey Pattern print,21,1
 3960pr9999,Dish 4 x 4 Inverted [Radar] with Clock Face with Copper and Gold Spiral Gear and Red Hands Print,21,1
 3960ps2,Dish 4 x 4 Inverted [Radar] with TIE Hatch Print,21,1
 3960ps3,Dish 4 x 4 Inverted [Radar] with Sith Print,21,1
@@ -15118,7 +15144,7 @@ part_num,name,part_cat_id,part_material_id
 397,Baseplate 10 x 16,1,1
 39739,Tile 1 x 1 Special Heart,15,1
 39739pr0001,Tile 1 x 1 Special Heart with Clock Print,15,1
-39739pr0002,Tile 1 x 1 Special Heart with print,15,1
+39739pr0002,Tile 1 x 1 Special Heart with Peach print,15,1
 39754,Sticker Sheet for 21311-1,58,1
 39765,Sticker Sheet for Set 75956-1 (39765/6237726),58,1
 39766,Sticker for Set 75955-1 - (39766/6237722),58,1
@@ -15133,6 +15159,7 @@ part_num,name,part_cat_id,part_material_id
 39794,Technic Frame 7 x 11,55,1
 39795,Sticker Sheet for set 76095-1 (39795/6238045),58,1
 39796,"Minifig Neckwear Breathing Apparatus, Aviator Oxygen Mask",27,1
+39797,"FLAT TILE 1X1, ROUND",24,1
 3979c01,Panel  2 x  6 x  7 with Fabuland Window Round Type 1 Red,16,1
 3979c02,Panel  2 x  6 x  7 with Fabuland Window Round Type 1 Yellow,16,1
 39800,Stickersheet for set 75954-1 (39800/6238049),58,1
@@ -15176,7 +15203,6 @@ part_num,name,part_cat_id,part_material_id
 40218,Sticker Sheet for Telekom Sets 1196 and 1197,58,1
 4021stk01,Sticker for Set 4021 - (163175),58,1
 4022,Train Buffer Beam,36,1
-40228stk01,Sticker Sheet for Set 40228-1  27105/6155610,58,1
 4023,Train Coupling,39,1
 40232,"Owl Large, Rounded Features",28,1
 40233,Minifig Hair Short Tousled,65,1
@@ -15262,7 +15288,7 @@ part_num,name,part_cat_id,part_material_id
 40471,Sticker Sheet for Set 4572-1,58,1
 40472,Sticker Sheet for Set 4573-1,58,1
 40490,Technic Beam 1 x 9 Thick,51,1
-40507,Bionicle Tohunga Disk Thrower Arm,41,1
+40507,"Large Figure Weapon, Disk Throwing Arm (Tohunga)",41,1
 40522,Sticker for Set 75952-1 - (40522/6240207),58,1
 40527,Door/Window Frame 1 x 4 x 4,16,1
 40553,Duplo Trophy Cup with Number 1 in Shield and Open Handles,4,1
@@ -15449,7 +15475,6 @@ part_num,name,part_cat_id,part_material_id
 4066pb411,"Duplo Brick 1 x 2 x 2 with Lightning Bolt, '95' and Checkered Flag Print",4,1
 4066pb414,Duplo Brick 1 x 2 x 2 with Fairy Godmother with Wand and Fairy Dust Print,4,1
 4066pb416,"Duplo, Brick 1 x 2 x 2 with Legoland Discovery Center Factory Dallas / Fort Worth Print",4,1
-4066pb417,Duplo Brick 1 x 2 x 2 with Legoland Discovery Center Factory Print,4,1
 4066pb423,Duplo Brick 1 x 2 x 2 with Key Pad and '51337' Display Print,4,1
 4066pb425,Duplo Brick 1 x 2 x 2 with Dog and Cat with Food Bowl Print,4,1
 4066pb426,Duplo Brick 1 x 2 x 2 with Yellow Stanley Print,4,1
@@ -15552,6 +15577,8 @@ part_num,name,part_cat_id,part_material_id
 4066pr0468,"Duplo Brick 1 x 2 x 2 with Planets, Stars & Spaceship on White Grid Print",4,1
 4066pr0476,"Duplo Brick 1 x 2 x 2, Book with Horse with Wings Print",4,1
 4066pr0478,Duplo Brick 1 x 2 x 2 with Medical Supplies Print,4,1
+4066pr9982,Duplo Brick 1 x 2 x 2 with Legoland Discovery Center Factory Print -2012 V1,4,1
+4066pr9983,Duplo Brick 1 x 2 x 2 with Legoland Discovery Center Factory Print - 2012 V2,4,1
 4066pr9984,Duplo Brick 1 x 2 x 2 with Legoland Discovery Centre Factory 2015 Print,4,1
 4066pr9985,Duplo Brick 1 x 2 x 2 with Legoland Discovery Centre Factory 2014 Print,4,1
 4066pr9986,Duplo Brick 1 x 2 x 2 with Distribution Center and Lego Logo Print,4,1
@@ -15733,6 +15760,7 @@ part_num,name,part_cat_id,part_material_id
 4132168,Dacta Sorting Tray - 40 Compartment for Dacta Small Bin,17,1
 41324,Brick Special 1 x 4 x 6 with Flywheel Socket [Helikopter],5,1
 41325,Helicopter Rotor,35,1
+4132570,Scala Deco Magazine No. 15,42,5
 41326,Helicopter Axle for Rotor,35,1
 41327,Helicopter Tail and Landing Gear,35,1
 41328,Helicopter Cockpit,35,1
@@ -15937,6 +15965,7 @@ part_num,name,part_cat_id,part_material_id
 4162pr0070,"Tile 1 x 8 with ""Apollo 11 Lunar Lander"" print",19,1
 4162pr0071,Tile 1 x 8 with White 'Dubai' print,19,1
 4162pr0072,Tile 1 x 8 with White 'Tokyo' print,19,1
+4162pr0076,Tile 1 x 8 with Lamborghini print,19,1
 4162pr0129,Tile 1 x 8 with 'LEGO Inside Tour 2015' Print,19,1
 4162pr0142,Tile 1 x 8 with Ruler INCH 0 - 2 Pattern Item No: 4162pb142,19,1
 4162pr0143,Tile 1 x 8 with Ruler INCH 3 - 4 Pattern,19,1
@@ -15970,11 +15999,11 @@ part_num,name,part_cat_id,part_material_id
 41662,Large Figure Shield 5 x 5 with Triple Blasters,41,1
 41663,Large Figure Shield 5 x 5 with Dual Round Prongs,41,1
 41664,Large Figure Shield 5 x 5 with 3 Top Fins,41,1
-41665,"Bionicle Bohrok Ribcage, Beam 2 x 4 x 7 angled",41,1
+41665,"Large Figure Skeletal, Torso, Beam 2 x 4 x 7 Angled",41,1
 41666,Technic Arm 1 x 7 with 9 Tooth Double Bevel Gear Ends,52,1
 41667,Technic Arm 2 x 5 with 1/4 Gear 8 Tooth Double Bevel,52,1
 41668,"Large Figure Foot, with Ball Joint Socket 2 x 3 x 5",41,1
-41669,Technic Tooth 1 x 3 with Axle Hole,41,1
+41669,Technic Tooth 1 x 3 with Axle Hole,26,1
 41670,"Large Figure Skeletal, Limb, Angular 90°, 4 x 4 x 2 with 2 Ball Joints, and Axle Hole",41,1
 41671,Windscreen Bohrok 4 x 5 x 7 [Plain],41,1
 41671pat0002,Windscreen Bohrok 4 x 5 x 7 Marbled Trans-Clear Pattern,41,1
@@ -15984,7 +16013,7 @@ part_num,name,part_cat_id,part_material_id
 41671pb06,Windscreen Bohrok 4 x 5 x 7 with Green Scales and Lehvak-Kal Logo,41,1
 41671pb07,Windscreen Bohrok 4 x 5 x 7 with Brown Scales and Pahrak-Kal Logo,41,1
 41671pb08,Windscreen Bohrok 4 x 5 x 7 with Blue Scales and Gahlok-Kal Logo,41,1
-41672,"Bionicle Bohrok Shoulder, Beam 1 x 3 x 7",41,1
+41672,"Large Figure Skeletal, Limb 1 x 3 x 7 Beam with Axle Holes (Bohrok)",41,1
 41677,Technic Beam 1 x 2 Thin,51,1
 41678,Technic Axle and Pin Connector Perpendicular Double Split,12,1
 41679,Technic Rotation Joint [Half-Ball 3L Then Beam],55,1
@@ -16455,7 +16484,7 @@ part_num,name,part_cat_id,part_material_id
 42073,Windup Motor 2 x 6 x 2 1/3 Undetermined Shaft Base Type / Axle Length (Sports),44,1
 42073c02,Windup Motor 2 x 6 x 2 1/3 with Raised Shaft Base - Long Axle,44,1
 42073cx1,"Motor Wind-Up 2 x 6 x 2 & 1/3 with Short TrLuWhite Axle basketball, football, soccer",44,1
-42074,Bionicle 2 x 3 Axle Connector with Tooth,41,1
+42074,"Large Figure Weapon, Claw / Tooth / Hook 2 x 3 with Axle and Hole",41,1
 42076c01,Duplo Hose 12L with Into-the-Stud-Size & Stud-Size Ends,4,1
 42077,Duplo Wand with 7 Point Star,4,1
 4208,String Reel 2 x 4 x 2 Drum,31,1
@@ -16880,24 +16909,24 @@ part_num,name,part_cat_id,part_material_id
 44033,"Large Figure Weapon Blade, Air Katana",41,1
 44034,"Large Figure Weapon Saw, Breaker / All-Terrain Track",41,1
 44035,"Large Figure Weapon Sword, Magma Sword / Lava Board Half",41,1
-44036,Bionicle Toa Nuva Climbing Claw / Kodan Ball Half,41,1
+44036,"Large Figure Weapon, Claw, Climbing Claw / Kodan Ball Half (Toa Nuva)",41,1
 44045,Macy Key Chain,17,1
 44079,PNEUMATIC TUBE 336MM,22,1
 44126,Brick Curved 6 x 2,37,1
-44135,Bionicle Rahkshi Torso Lower Section,41,1
-44136,Bionicle Rahkshi Chest Section,41,1
-44137,"Bionicle Matoran Back, Beam 4 x 4 x 2",41,1
+44135,"Large Figure Skeletal, Torso, Lower Section (Rahkshi)",41,1
+44136,"Large Figure Skeletal, Torso, Chest (Rahkshi)",41,1
+44137,"Large Figure Skeletal, Torso, Back, Beam 4 x 4 x 2 (Matoran)",41,1
 44138,"Large Figure Foot, Rahkshi",41,1
-44139,Bionicle Rahkshi Kraata Holder,41,1
-44140,Bionicle Rahkshi Back Cover with Groove,41,1
-44141,Bionicle Rahkshi Kraata [Undeterminded Stage],41,1
-44141a,Bionicle Rahkshi Kraata Stage 1,41,1
-44142,"Bionicle Rahkshi Back Blade, 6 blades alternately angled (Panrahk)",41,1
-44143,"Bionicle Rahkshi Back Blade, 3 Blades with Trapezoidal Holes (Turahk)",41,1
-44144,Bionicle Rahkshi Back Blade - 3 blades like shark fins (Lerahk),41,1
-44145,Bionicle Rahkshi Back Blade - 3 blades sawtoothed with circular holes (Kurahk),41,1
-44146,Bionicle Rahkshi Back Blade - 5 spikes with side spokes (Vorahk),41,1
-44147,"Bionicle Rahkshi Back Blade, 7 pointed (Guurahk)",41,1
+44139,"Large Figure Accessory, Rahkshi Kraata Holder",41,1
+44140,Large Figure Back Cover with Groove (Rahkshi),41,1
+44141,"Large Figure Accessory, Rahkshi Kraata [Undeterminded Stage]",41,1
+44141a,"Large Figure Accessory, Rahkshi Kraata Stage 1",41,1
+44142,"Large Figure Weapon, Back Blades, 6 Blades Alternately Angled (Rahkshi Panrahk)",41,1
+44143,"Large Figure Weapon, Back Blades, Trapezoidal Holes (Rahkshi Turahk)",41,1
+44144,"Large Figure Weapon, Back Blades (Rahkshi Lerahk)",41,1
+44145,"Large Figure Weapon, Back Blades, Sawtoothed with Circular Holes (Rahkshi Kurahk)",41,1
+44146,"Large Figure Weapon, Back Blades, 5 Spikes with Side Spokes (Rahkshi Vorahk)",41,1
+44147,"Large Figure Weapon, Back Blades, 7 Pointed Blades (Rahkshi Guurahk)",41,1
 44148,"Large Figure Skeletal, Limb, with Ball Joint (Rahkshi)",41,1
 4415c01pr0001,"Duplo Animal Zebra, Ridged Mane",4,1
 4419,Duplo Animal Brick 2 x 2 Rounded,4,1
@@ -16910,7 +16939,7 @@ part_num,name,part_cat_id,part_material_id
 44224,Technic Rotation Joint Disk with Pin Hole and 3L Beam Thick,55,1
 44225,Technic Rotation Joint Disk with Pin and 3L Beam Thick,55,1
 4424,Barrel Half Large,7,1
-44247,Bionicle Rahkshi Torso - Gear 7 Tooth with 3 Axle Holes,41,1
+44247,"Large Figure Skeletal, Torso with Gear 7 Tooth and 3 Axle Holes",41,1
 44255,Duplo Animal Brick 2 x 2 Body Segments with Flexible Spine,4,1
 4429,Equipment Flask with Handle,27,1
 44292,Wheel 30.4 x 20 with 3 Pinholes,29,1
@@ -17023,7 +17052,7 @@ part_num,name,part_cat_id,part_material_id
 44524,Duplo Plate 2 x 8,4,1
 44525,"Duplo Baseplate Raised Center with Pit, 12 x 12 with Four Studs in Each Corner",4,1
 44526,Duplo Door Frame / Entryway with Double Doorway and 4 x 6 Studs on Top,4,1
-44529,Sticker Sheet for Set 60225-1 - (44529/6248679),58,1
+44529,Sticker Sheet for Set 60225-1,58,1
 4452stk,Sticker Sheet for Set 374-1,58,1
 44534,Duplo Metal Flower Gear with 8 Teeth,4,1
 44535,Duplo Metal Flower with 8 Petals,4,1
@@ -17114,7 +17143,7 @@ part_num,name,part_cat_id,part_material_id
 4480c01,Bike  2 Wheel Motorcycle Frame  3 x  6 x  3 (Complete),36,1
 44810,"Large Figure Skeletal, Torso, Gear 9 Tooth with 3 Axle Holes and 2 Holes (Matoran)",41,1
 44811,"Large Figure Weapon, Matoran Kolhii Stick",41,1
-44812,Bionicle Matoran Kolhii Ball,41,1
+44812,"Large Figure Weapon, Matoran Kolhii Disc / Ball",41,1
 44813,Large Figure Weapon Staff (Staff of Light Blade),41,1
 44813pat0001,"Large Figure Weapon Staff, Marbled Dark Red Pattern (Staff of Light Blade)",41,1
 44814,Large Figure Mask Avohkii,41,1
@@ -17423,8 +17452,6 @@ part_num,name,part_cat_id,part_material_id
 455p01,Baseplate 16 x 24 with Rounded Corners and Set 344 Dots Print,1,1
 455p02,Baseplate 16 x 24 with Rounded Corners and Set 362 Dots Print,1,1
 45601,SPIKE Large Hub,45,1
-45610,SPIKE Large Hub Battery,45,1
-45611,SPIKE Micro USB Connector Cable,45,1
 4562,Duplo Train Track Curved 45 Degrees,4,1
 4562027,Instruction CD-ROM for 9698 (FLL 2009 - Smart Move),17,1
 4563,Duplo Train Track Straight 4 x 11,4,1
@@ -17869,7 +17896,7 @@ part_num,name,part_cat_id,part_material_id
 4651886,Eye Bandage with Multi-Colour Spots Print,38,1
 46524,Brick Special 2 x 6 With Light And Sound Functions,45,1
 4653,Duplo Winch Wide Drum,4,1
-465340001,"Minifig Helmet with Antennae and Headphones and Black Visor, Gold/Green Decorations (Mei)",65,1
+46534pr0001,"Minifig Helmet with Antennae and Headphones and Black Visor, Gold/Green Decorations (Mei)",65,1
 46534pr0235,Minifig Helmet with Antennae and Large Red Eyes with Black Outline,65,1
 46534pr0252,Minifig Helmet with Antennae and Headphones and Trans-Red Visor (Ant-man),65,1
 46534pr0259,Minifig Helmet with Antennae and Black Visor Print,65,1
@@ -17967,19 +17994,19 @@ part_num,name,part_cat_id,part_material_id
 47296,Technic Axle and Pin Connector 2 x 5 with Two Ball Joint Sockets,12,1
 47297,"Large Figure Skeletal, Limb, with 2 Ball Joints (Toa Metru)",41,1
 47298,"Large Figure Foot, Toa Metru",41,1
-47299,Bionicle Toa Metru Knee Cover,41,1
+47299,Large Figure Limb Cover (Toa Metru),41,1
 4730,Brick Special 2 x 2 with Pin and No Axle Hole,5,1
 47300,"Large Figure Skeletal, Limb, Angular 90°, 3 x 3 x 2 with 2 Ball Joints, and Axle Hole",41,1
 47301,Large Figure Mask Matatu (Toa Metru),41,1
 47302,Large Figure Mask Ruru (Toa Metru),41,1
 47303,Large Figure Mask Rau (Toa Metru),41,1
 47304,"Large Figure Weapon, Kanoka Disk Launcher (Matoran)",41,1
-47305,Bionicle Toa Metru Torso,41,1
+47305,"Large Figure Skeletal, Torso (Toa Metru)",41,1
 47306,"Large Figure Skeletal, Torso with Beam, 2 Ball Joints, and 7 Tooth Half Gear",41,1
 47307,Large Figure Mask Mahiki (Toa Metru),41,1
 47308,Large Figure Mask Huna (Toa Metru),41,1
 47309,Large Figure Mask Komau (Toa Metru),41,1
-47310,"Bionicle Shoulder Armour, Toa Metru",41,1
+47310,"Large Figure Shoulder Cover, Armor (Toa Metru)",41,1
 47311,"Large Figure Skeletal, Limb, with 2 Ball Joints, and Hole (Toa Metru)",41,1
 47312,Large Figure Head Connector Block (Toa Metru),41,1
 47313,Large Figure Head Connector Block Eye/Brain Stalk (Toa Metru),41,1
@@ -18038,7 +18065,6 @@ part_num,name,part_cat_id,part_material_id
 47407,Wedge Plate 4 x 6,49,1
 47408,Duplo Cone 2 x 2 Square Base,4,1
 47408pr0002,Duplo Cone 2 x 2 Square Base with Black Stripes Print,4,1
-47409999,Dish 2 x 2 Inverted [Radar] with Dark Bluish Grey Pattern print,21,1
 4740pb01,Dish 2 x 2 Inverted [Radar] with Lace and Flower Print,21,1
 4740pb02,Dish 2 x 2 Inverted [Radar] with HP Clock Top Print,21,1
 4740pr0001,Dish 2 x 2 Inverted [Radar] with Spider Web print,21,1
@@ -18815,7 +18841,7 @@ part_num,name,part_cat_id,part_material_id
 49394pr0001,"Minifig Hair Parted in Center, Two Front Braids, Bright Light Blue Bows Print (Dorothy)",65,1
 49405,Sticker Sheet for Set 75230-1 (49405/),58,1
 49409,Sticker Sheet for Set 31094-1,58,1
-49423,Bionicle Toa Metru Chest Cover,41,1
+49423,Large Figure Chest Cover (Toa Metru),41,1
 4943pr0001,"Duplo Figure, Early with Joined Legs, with White Legs, Duck Bib Print, Black Hair, and White Bonnet (Baby)",57,1
 4943pr0002,"Duplo Figure, Early with Joined Legs Red, with Red and Green Geometric Print, Green Collar, and Brown Hair",57,1
 4943pr0003,"Duplo Figure, Early with Joined Legs Light Blue, with Light Blue Collar, Freckles, and Black Hair",57,1
@@ -18910,6 +18936,8 @@ part_num,name,part_cat_id,part_material_id
 49949,Fuselage 6 x 10 x 4 Round,47,1
 49986pr0001,"Cat Standing with Dark Red Spiky Mohawk and Collar, Bandages and Dark Brown Stripes Print",28,1
 49986pr0002,"Cat Standing with Bright Light Orange Spiky Mohawk and Collar, Bright Light Orange Stripes print",28,1
+49989pr0001,"Duplo Animal Bear, Sitting, Black Eyes and Nose Print",4,1
+49989pr0002,"Duplo Animal Bear, Sitting, Panda Print",4,1
 4999stk01,Sticker for Set 4999 (63551/4529157),58,1
 4j001,Minifig - 4 Juniors,13,1
 4j002,Minifig - 4 Juniors,13,1
@@ -19044,7 +19072,7 @@ part_num,name,part_cat_id,part_material_id
 50659c01pb02,"Large Figure Torso with Vladek, Lord Print Silver Scorpion Relief (Series 3)",41,1
 50659c02pb01,"Large Figure Torso with Dracus Print, Black Front and Silver Trim, Brick 2 x 2 Relief",41,1
 50659c02pb02,Large Figure Torso with Karzon Print (Black Front and Copper Trim) Brick 2 x 2 Relief (Series 3),41,1
-50660c01pb01,"Large Figure Torso, with Santis, Sir Print Bear Head Relief (Series 2)",41,1
+50660c01pb01,"Large Figure Torso with Santis, Sir Print Bear Head Relief (Series 2)",41,1
 50661c01pb01,"Large Figure Torso with Rascus, Sir Print Monkey Relief (Series 2)",41,1
 50662c01pb01,"Large Figure Torso with Danju, Sir Print Wolf Head Relief (Series 2)",41,1
 50663pat0001,Cone Reverse (Ninjago Spinjitzu) with Trans-Green Marble,20,1
@@ -19089,25 +19117,25 @@ part_num,name,part_cat_id,part_material_id
 50862,Wheel 15 x 6 City Motorcycle,29,1
 50882,Sticker Sheet for Set 4857-1,58,1
 50898,"Technic, Axle and Pin Connector 2 x 7 with Two Ball Joint Sockets",12,1
-50899,"Technic Bionicle Rhotuka Spinner [Solid Color, Without Code on Side]",41,1
-50899pat01,"Bionicle Rhotuka Spinner - Marbled Flat Silver Pattern, Without Code on Side",41,1
-50899pr0002,"Bionicle Rhotuka Spinner - Solid Color, With Code on Side",41,1
+50899,Large Figure Spinner / Propeller without Code (Rhotuka) [Plain],41,1
+50899pat01,"Large Figure Spinner / Propeller without Code, Marbled Flat Silver Pattern (Rhotuka)",41,1
+50899pr0002,Large Figure Spinner / Propeller with Code Print (Rhotuka),41,1
 50900,Bionicle Rhotuka Ripcord 12L with Connector Block 1 x 3 x 5,56,1
-50901,Bionicle Rhotuka Connector Block 1 x 3 x 2 with 2 Pins and Axle Hole,41,1
-50903,Technic Bionicle Rhotuka Spinner Rod 2.5L with Gear  8 Tooth,41,1
+50901,"Large Figure Skeletal, Connector Block 1 x 3 x 2 with 2 Pins and Axle Hole (Rhotuka)",41,1
+50903,Large Figure Spinner Rod 2.5L with Gear 8 Tooth (Rhotuka),41,1
 50904,"Large Figure Skeletal, Torso, Beam 8 x 3 x 2 (Visorak)",41,1
 50905,Large Figure Head Visorak with 7 Pin Holes and Axle Hole (Boggarak),41,1
-50906,Bionicle Visorak Fang with 2 Pin Holes (Boggarak),41,1
+50906,"Large Figure Weapon, Claw / Fang, 2 Pin Holes (Visorak Boggarak)",41,1
 50907,Large Figure Head Visorak with 7 Pin Holes and Axle Hole (Keelerak),41,1
-50908,Bionicle Visorak Fang with 2 Pin Holes (Keelerak),41,1
+50908,"Large Figure Weapon, Claw / Fang, 2 Pin Holes (Visorak Keelerak)",41,1
 50909,Large Figure Head Visorak with 7 Pin Holes and Axle Hole (Roporak),41,1
-50910,Bionicle Visorak Fang with 2 Pin Holes (Roporak),41,1
+50910,"Large Figure Weapon, Claw / Fang, 2 Pin Holes (Visorak Roporak)",41,1
 50911,Large Figure Head Visorak with 7 Pin Holes and Axle Hole (Suukorak),41,1
 50912,Large Figure Head Visorak with 7 Pin Holes and Axle Hole (Oohnorak),41,1
 50913,Large Figure Head Visorak with 7 Pin Holes and Axle Hole (Vohtarak),41,1
-50914,Bionicle Visorak Fang with 2 Pin Holes (Suukorak),41,1
-50915,Bionicle Visorak Fang with 2 Pin Holes (Oohnorak),41,1
-50918,Bionicle Visorak Fang with 2 Pin Holes (Vohtarak),41,1
+50914,"Large Figure Weapon, Claw / Fang, 2 Pin Holes (Visorak Suukorak)",41,1
+50915,"Large Figure Weapon, Claw / Fang, 2 Pin Holes (Visorak Oohnorak)",41,1
+50918,"Large Figure Weapon, Claw / Fang, 2 Pin Holes (Visorak Vohtarak)",41,1
 50919,"Large Figure Foot, Toa Hordika",41,1
 50920,"Large Figure Skeletal, Limb, Angular with 2 Ball Joints (Toa Hordika)",41,1
 50921,"Large Figure Skeletal, Limb, with Ball Joint, and Gear with Axle Hole (Toa Hordika)",41,1
@@ -19242,6 +19270,7 @@ part_num,name,part_cat_id,part_material_id
 51036,Clikits Icon - Rectangle 3L with Hole,48,1
 51070,Animal Baby Dolphin with Black Eyes,28,1
 51112,Minifig Mask Batman with Robe and Yellow Batman Logo print,65,1
+51149,TECHNIC CHANGE-OVER CATCH,24,1
 51152,"Belville Fishtail for Adult with Dark Purple Fins, Dark Purple Spots, Silver Overlay Print, with Top Cuff",42,1
 51154,"Belville Fishtail for Adult with Medium Blue Fins, Medium Blue Spots, Silver Overlay Print",42,1
 51155,"Belville Fishtail for Child with Gold Fins, Dark Pink Spots, Silver Overlay Print",42,1
@@ -19447,13 +19476,13 @@ part_num,name,part_cat_id,part_material_id
 51934pr0001,Duplo Horse Barding with Silver Armor and Dragon with Red and Yellow Background Print,4,1
 51934pr0002,Duplo Horse Barding with Silver Armor and Lion and Crown with Blue and Yellow Background Print,4,1
 51957,Duplo Garbage Container with Black Handle,4,1
-51991,Technic Bionicle Minifig Visorak (Unspecified),24,1
-51991a,Bionicle Mini - Visorak Boggarak,41,1
-51991b,Bionicle Mini - Visorak Keelerak,41,1
-51991c,Bionicle Mini - Visorak Oohnorak,41,1
-51991d,Bionicle Mini - Visorak Roporak,41,1
-51991e,Bionicle Mini - Visorak Suukorak,41,1
-51991f,Bionicle Mini - Visorak Vohtarak,41,1
+51991,"Creature, Visorak [Undetermined Type]",41,1
+51991a,"Creature, Visorak Boggarak",41,1
+51991b,"Creature, Visorak Keelerak",41,1
+51991c,"Creature, Visorak Oohnorak",41,1
+51991d,"Creature, Visorak Roporak",41,1
+51991e,"Creature, Visorak Suukorak",41,1
+51991f,"Creature, Visorak Vohtarak",41,1
 51996,Duplo Broadaxe,4,1
 51ps1,Technic Panel Dome 6 x 6 x 5 2/3 with R2-D2 No Eye Print,40,1
 51ps2,Technic Panel Dome 6 x 6 x 5 2/3 with R2-D2 Eye Print,40,1
@@ -19490,7 +19519,6 @@ part_num,name,part_cat_id,part_material_id
 52189c02,"Duplo Siren with Light & Sound, 1 x 2 Base with Red Button",4,1
 52189c03,"Duplo Siren with Light, 1 x 2 Base with Red Button",4,1
 52193,Sticker Sheet for Set 8647-1  (52193/4254634),58,1
-52195pr0001,"Duplo Animal Panda Cub, Sitting",4,1
 52198,Duplo Dragon Head with Red Eyes,4,1
 52228,Sticker Sheet for Set 7238-1,58,1
 52255pr0001,Duplo Animal Whale Calf / Baby,4,1
@@ -19506,6 +19534,7 @@ part_num,name,part_cat_id,part_material_id
 52365,Duplo Catapult Arm,4,1
 52366,Duplo Catapult Base,4,1
 52388,"Duplo Figure, Snowman (Olaf)",57,1
+52394,ROCKET STEP SMALL 1X1,24,1
 52459,Sticker Sheet for Set 41383-1 (52459/6261516),58,1
 52494,Equipment Binoculars with Stud on Top,27,1
 52501,Slope Inverted 45° 6 x 1 Double with 1 x 4 Cutout,3,1
@@ -19521,6 +19550,7 @@ part_num,name,part_cat_id,part_material_id
 52716,"Duplo Hairbrush, Heart Shaped",4,1
 52730,CV Ball Joint Female,25,1
 52731,CV Ball Joint Male,25,1
+52738,PLATE 1X1 W/HOLDER VERTICAL,24,1
 52779,Sticker Sheet for Set 7237-1  (52779/4261682),58,1
 52800,Sticker for Set 7245-1 - (52800/4261757),58,1
 52812,Ribbon,38,3
@@ -19627,9 +19657,9 @@ part_num,name,part_cat_id,part_material_id
 53533,Technic Beam 2 x 4 Fork with Pin,55,1
 53535,Sticker Sheet for Set 8421-1,58,1
 53542,"Large Figure Foot, Claws, Toa Inika",41,1
-53543,Bionicle Toa Inika Thigh Cover,41,1
-53544,Bionicle Toa Inika Upper Arm Cover,41,1
-53544pat0001,"Bionicle Toa Inika Upper Arm Cover, Marbled White Pattern",41,1
+53543,Large Figure Limb Cover (Toa Inika),41,1
+53544,Large Figure Limb Cover / Torso Cover (Toa Inika),41,1
+53544pat0001,Large Figure Limb Cover / Torso Cover with Marbled White Pattern (Toa Inika),41,1
 53545,"Large Figure Skeletal, Torso, Upper, with 2 Ball Joints (Toa Inika)",41,1
 53546,"Large Figure Torso Cover, Armour, Toa Inika (Type 1)",41,1
 53547,"Large Figure Torso Cover, Armour, Toa Inika (Type 2) [Plain]",41,1
@@ -19639,7 +19669,7 @@ part_num,name,part_cat_id,part_material_id
 53549,"Large Figure Foot, Toa Inika Elliptical",41,1
 53549pat0001,"Large Figure Foot, Toa Inika Elliptical with Marbled White Pattern",41,1
 53549pat0002,"Large Figure Foot, Toa Inika Elliptical with Marbled Pearl Light Gray Pattern",41,1
-53550,Bionicle Zamor Sphere Holder,41,1
+53550,"Large Figure Weapon, Zamor Sphere Holder",41,1
 53551,"Large Figure Accessory, Chain Link Section",41,1
 53558pat01,Large Figure Head (Toa Inika) with Marbled White Pattern,41,1
 53560,Large Figure Mask Calix,41,2
@@ -19652,7 +19682,7 @@ part_num,name,part_cat_id,part_material_id
 53563,"Large Figure Skeletal, Limb, with 2 Ball Joints (Piraka)",41,1
 53564,"Large Figure Skeletal, Torso with 2 Ball Joints (Piraka)",41,1
 53565,Technic Connector Block 3 x 6 x 3 with Ball Joint,12,1
-53566,Bionicle Piraka Leg Upper Section Cover,41,1
+53566,"Large Figure Limb Cover, Upper Leg Section (Piraka)",41,1
 53568,"Large Figure Foot, Piraka Mechanical",41,1
 53569,"Large Figure Weapon, Piraka Drill and Buzz Saw Combination (Reidak)",41,1
 53570,"Large Figure Mask Piraka, with Flexible Spine and Arm Covers, Thok",41,1
@@ -19808,7 +19838,7 @@ part_num,name,part_cat_id,part_material_id
 54262,Large Figure Mask Kadin,41,2
 54263,Large Figure Mask Sanok,41,2
 54270,"Large Figure Mask Piraka, with Flexible Spine and Arm Covers, Reidak",41,1
-54271,Bionicle Zamor Sphere Launcher,41,1
+54271,"Large Figure Weapon, Zamor Sphere Launcher",41,1
 54272,"Large Figure Weapon Sword, Lava Chamber Gate Sword",41,1
 54273,Large Figure Head Fenrakk,41,1
 54274pr01,"Minifig Head Special, Bionicle Inika Toa Matoro",59,1
@@ -19832,7 +19862,7 @@ part_num,name,part_cat_id,part_material_id
 54568,Propeller with Pin,35,1
 54569pr0001,"Duplo Brick 2 x 4 x 2, Molded Face with Cranky Print",4,1
 54571,Dino Jaw Baryonyx with Tan Teeth,28,1
-54572,Dacta Storage Bin Upper Tray [For New Style Storage Bins],17,1
+54572,Dacta Storage Bin Upper Tray - 13 Cups [For New Style Storage Bins],17,1
 54597,Sticker Sheet for Set 70676-1,58,1
 54600c01,Quatro Car Base 2 x 4 with Hitches and 4 Yellow Wheels,4,1
 54605,Light Brick 2 x 4 [Red LED],45,1
@@ -19867,12 +19897,12 @@ part_num,name,part_cat_id,part_material_id
 54802,Flywheel Inertia Motor 9 x 4 x 3 2/3,44,1
 54806,Sticker Sheet for Set 76118-1,58,1
 54807,Sticker Sheet for Set 76120-1,58,1
-54821,"Large Figure Weapon, Zamor Sphere",41,1
-54821pat0001,"Large Figure Weapon, Zamor Sphere (Ball) with Marbled Bright Light Orange Pattern",41,1
-54821pat0002,"Large Figure Weapon, Zamor Sphere with Marbled Trans-Bright Green Pattern",41,1
-54821pat0005,"Large Figure Weapon, Zamor Sphere with Marbled Trans-Yellow Pattern [Palantír]",41,1
-54821pat0006,"Large Figure Weapon, Zamor Sphere with Marbled Yellow Pattern",41,1
-54821pat0007,"Large Figure Weapon, Zamor Sphere with Marbled White Pattern",41,1
+54821,"Large Figure Weapon, Zamor Sphere / Ball",41,1
+54821pat0001,"Large Figure Weapon, Zamor Sphere / Ball with Marbled Bright Light Orange Pattern",41,1
+54821pat0002,"Large Figure Weapon, Zamor Sphere / Ball with Marbled Trans-Bright Green Pattern",41,1
+54821pat0005,"Large Figure Weapon, Zamor Sphere / Ball with Marbled Trans-Yellow Pattern [Palantír]",41,1
+54821pat0006,"Large Figure Weapon, Zamor Sphere / Ball with Marbled Yellow Pattern",41,1
+54821pat0007,"Large Figure Weapon, Zamor Sphere / Ball with Marbled White Pattern",41,1
 54825,"Duplo Building Wall 1 x 8 x 6 with Window Opening, Hinge on Right with Bricks Print",4,1
 54827,Duplo Brick 1 x 2 x 2 with Aquarium and Fish Print,4,1
 54828,Duplo Brick 1 x 2 x 2 with Gift with Bow Print,4,1
@@ -19958,6 +19988,7 @@ part_num,name,part_cat_id,part_material_id
 55343,Duplo Pistol with Silver Barrel,4,1
 5540stk01,Sticker for Set 5540 - (197915),58,1
 5541stk01,Sticker for Set 5541 - (170155),58,1
+55422,"RECHARGEABLE BATTERY, NO. 2",24,1
 55436,Duplo Crane Arm (Full Assembly),4,1
 55455c01,"Electric Train Baseplate 9V RC Train 6 x 30 with IR Receivers and Battery Compartment, Complete Assembly",45,1
 554stk01,Sticker for Set 554 - (190375),58,1
@@ -20099,8 +20130,8 @@ part_num,name,part_cat_id,part_material_id
 57519,Technic Tread Sprocket Wheel Large,52,1
 57520,Technic Tread Sprocket Wheel Small,52,1
 57523c01,"Large Figure Weapon Cannon, Cordak Blaster",41,1
-57525,Bionicle Cordak Ammo,41,1
-57526,"Bionicle Thigh and Shoulder Armor, Right (Toa Mahri Nuparu)",41,1
+57525,"Large Figure Weapon, Ammo (Cordak)",41,1
+57526,"Large Figure Limb Cover, Armor, Right (Toa Mahri Nuparu)",41,1
 57527,"Large Figure Weapon Blade, Aqua Warblade (Hewkii Mahri)",41,1
 57528,"Large Figure Weapon Claw Blade, Small",41,1
 57529,"Large Figure Weapon Blade, Double / Shield Half (Toa Mahri Nuparu)",41,1
@@ -20117,9 +20148,9 @@ part_num,name,part_cat_id,part_material_id
 57539pat0003,"Hose Flexible Ribbed with 8mm ends, 19L with Dark Purple Pattern",30,1
 57539pat0004,"Hose Flexible Ribbed with 8mm ends, 19L with Blue Centre Pattern",30,1
 57540,Large Figure Wing / Fin (Hahli Mahri),41,1
-57541,"Bionicle Thigh and Shoulder Armor, Left (Toa Mahri Nuparu)",41,1
+57541,"Large Figure Limb Cover, Armor, Left (Toa Mahri Nuparu)",41,1
 57543,Large Figure Weapon Blade (Hewkii Mahri / Solek),41,1
-57544,"Bionicle Shoulder Armor, Matoro Mahri",41,1
+57544,"Large Figure Limb Cover, Armor (Matoro Mahri)",41,1
 57545,"Large Figure Weapon Blade, Protosteel Talon (Hahli Mahri)",41,1
 57546,"Large Figure Chest Cover, Armour, Jaller Mahri",41,1
 57547,"Large Figure Skeletal, Torso, Upper, with 9 Holes (Mahri Kongu)",41,1
@@ -20131,13 +20162,13 @@ part_num,name,part_cat_id,part_material_id
 57551pat0001,"Large Figure Head Barraki Takadox, Marbled Glow in Dark Pattern",41,1
 57552pat0001,Large Figure Head Barraki Pridak with Marbled Red Pattern,41,1
 57553pat0001,Large Figure Head Barraki Ehlek with Marbled Lime Pattern,41,1
-57554,Bionicle Barraki Mandible,41,1
+57554,"Large Figure Weapon, Claw / Limb (Barraki Mandible)",41,1
 57555,"Large Figure Weapon, Ammo, Squid",41,2
 57556,"Large Figure Weapon, Squid Ammo Launcher",41,1
-57557,Bionicle Barraki Carapar Thigh and Shoulder Cover,41,1
-57557pat0001,Bionicle Barraki Carapar Thigh and Shoulder Cover with Marbled Trans-Black Pattern,41,1
-57560,Bionicle Hydruka Back Plate (Morak),41,1
-57560pat0001,"Bionicle Hydruka Back Plate (Morak), Marbled Glow In Dark Pattern",41,1
+57557,"Large Figure Limb Cover, Armor (Barraki Carapar) / Scoop, Claw",41,1
+57557pat0001,"Large Figure Limb Cover, Armor (Barraki Carapar) / Scoop, Claw with Marbled Trans-Black Pattern",41,1
+57560,Large Figure Torso Cover / Back Plate (Hydruka Morak),41,1
+57560pat0001,Large Figure Torso Cover / Back Plate (Hydruka Morak) with Marbled Glow In Dark Pattern,41,1
 57561,"Large Figure Foot, Long, Pointed Barraki Pridak",41,1
 57562,Large Figure Barraki Spine Flexible,41,2
 57562pat0001,Large Figure Barraki Spine Flexible with Marbled Yellow Pattern,41,2
@@ -20158,9 +20189,9 @@ part_num,name,part_cat_id,part_material_id
 57575,Large Figure Mask Hydraxon,41,1
 57585,Technic Axle Connector Hub with 3 Axles at 120°,12,1
 57587,Brick Round 7 x 7 x 4 Dome Top,20,1
-57588,"Arm Mechanical, Bionicle",41,1
+57588,"Arm Mechanical, Bionicle",60,1
 57701,Large Figure Mask Maxilos,41,1
-57702,"Bionicle Mask - Inner Glass (for Faxon, Tryna, Volitak)",41,1
+57702,Large Figure Mask / Visor with Axle Hole,41,1
 57763pr0001,Animal Chameleon with Orange Eye Patches and Orange Stripes,28,1
 57763pr0002,Animal Chameleon with Azure Eye Patches and Azure and Dark Red Stripes Print,28,1
 57779,"Crane Arm Outside, New Wide with Pin Hole at Mid-Point",34,1
@@ -20242,7 +20273,7 @@ part_num,name,part_cat_id,part_material_id
 58118,Electric Power Functions Extension Wire with one Light Bluish Gray End [50cm],45,1
 58119,Electric Power Functions Battery Box 4 x 11 x 7 with Orange Switch and Dark Bluish Gray Covers,45,1
 58120,Electric Power Functions Medium Motor 3 x 6 x 3 with Dark Bluish Gray Bottom and 20cm Wire,45,1
-58121,Electric Power Functions XL Motor 6 x 6 x 6 with Dark Bluish Gray Bottom and 20cm Wire,45,1
+58121,Electric Power Functions XL Motor 6 x 5 x 6 with Dark Bluish Gray Bottom and 20cm Wire,45,1
 58122,Electric Power Functions IR Remote Control with Dark Bluish Gray Bottom,45,1
 58123a,Electric Power Functions IR Receiver,45,1
 58123b,Electric Power Functions IR Receiver with V2 Print,45,1
@@ -20254,7 +20285,7 @@ part_num,name,part_cat_id,part_material_id
 58136,Electric Power Functions IR Remote Control Direction Switch (part of 58122),45,1
 58150,Electric Power Functions Infra-Red Receiver Switch (part of 58123),45,1
 58174,Sticker Sheet for 10176,58,1
-58176,Light Cover with Internal Bar / Bionicle Barraki Eye,41,1
+58176,Light Cover with Internal Bar / Bionicle Barraki Eye,32,1
 58177,Technic Connector Block 3 x 3 Triangular with Axle,12,1
 58181,Slope 33° 3 x 6 No Inner Walls,3,1
 58181pr0003,Slope 33° 3 x 6 No Inner Walls with Cockpit print,47,1
@@ -20389,8 +20420,8 @@ part_num,name,part_cat_id,part_material_id
 59533pr0002,"Minifig Head Special, Toa Mahri Kongu",59,1
 59533pr0003,"Minifig Head Special, Toa Mahri Matoro",59,1
 59559,Duplo Container Tank Lower Section with Outlet for Hose,4,1
-59577,Bionicle Hydruka Back Plate,41,1
-59577pat0001,Bionicle Hydruka Back Plate with Marbled Black Pattern,41,1
+59577,Large Figure Limb Cover / Back Plate (Hydruka),41,1
+59577pat0001,Large Figure Limb Cover / Back Plate (Hydruka) with Marbled Black Pattern,41,1
 59599,Sticker Sheet for Set 40337-1,58,1
 59610,Skin Sheet 1 for Set 81001-1 (59610/6271854),38,1
 59622,Sticker for Set 7692-1 (59622/4506055),58,1
@@ -20439,6 +20470,7 @@ part_num,name,part_cat_id,part_material_id
 60100stk01,Sticker Sheet for Set 60100 - 24545/6133211 or 24550/6133217,58,1
 60102stk01,Sticker Sheet For Set 60102-1  24552 / 6133219 Or 24547 / 6133213,58,1
 6010859,Ninjago Masters of Spinjitzu Deck #2 Game Card 22 - Rattla - North American Version (3D Lenticular Card),17,5
+6011237,Cardboard Cards - Phineas and Ferb,17,5
 60115,Torso - Skeleton Thick Shoulder Pins,60,1
 60116,Sticker for Set 7094-1 - (60116/4508187),58,1
 6011773,"Super Heroes Comic Book, Issue 2",17,1
@@ -20644,6 +20676,7 @@ part_num,name,part_cat_id,part_material_id
 60481,Slope 65° 2 x 1 x 2,3,1
 60481pr0001,"Slope 65° 2 x 1 x 2 with Light Bluish Grey Star, Medium Blue Triangle print",3,1
 60483,Technic Beam 1 x 2 Thick with Pin Hole and Axle Hole,51,1
+60483pr0001,Technic Beam 1 x 2 Thick with Pin Hole and Axle Hole with Lamborghini Symbol print,51,1
 60484,Technic Beam 3 x 3 T-Shape Thick,51,1
 60485,Technic Axle 9,46,1
 6048a,"Arm Piece with Pin, 2 Fingers",18,1
@@ -20935,14 +20968,14 @@ part_num,name,part_cat_id,part_material_id
 60914pat0001,Large Figure Mask Jutlin with Marbled Black Pattern (Shapeshifted),41,1
 60915pat0001,Large Figure Mask Avsa with Marbled Pearl Light Gray Pattern,41,1
 60916pat0001,Large Figure Mask Shelek with Marbled Black Pattern,41,1
-60917,Bionicle Toa Pohatu Lower Arm Section,41,1
+60917,"Large Figure Skeletal, Limb, Lower Arm Section (Toa Pohatu)",41,1
 60918,"Large Figure Skeletal, Torso with 2 Ball Joints (Makuta)",41,1
 60919pat01,"Large Figure Wing, Makuta Marbled Flat Silver Pattern",41,1
 60920pat0001,"Large Figure Wing, Bladed with Marbled Dark Red Pattern (Antroz)",41,1
 60921,Large Figure Mask Avohkii (Post Karda Nui Exposure),41,1
 60923,"Large Figure Weapon Blade, Air Saber (Toa Lewa)",41,1
 60924,"Large Figure Weapon Blade, Blizzard (Toa Kopaka)",41,1
-60925,Technic Bionicle Propellor,41,1
+60925,"Large Figure Weapon, Propeller",41,1
 60926,"Large Figure Weapon Blade, Claw (Antroz)",41,1
 60928,"Large Figure Weapon Blade, Hook (Chirox)",41,1
 60929,"Large Figure, Shadow Leech",41,2
@@ -20951,10 +20984,10 @@ part_num,name,part_cat_id,part_material_id
 6092px1,"Baseplate Raised 32 x 32 with Ramp, Stairs, and Two Pits with Yellow Dirt Print",1,1
 6092px2,"Baseplate Raised 32 x 32 with Ramp, Stairs, and Two Pits with Stone Ramp and Blue Pool Print",1,1
 6093,Minifig Hair Ponytail,65,1
-60930,Bionicle Engine Jet Pack (Toa Lewa),41,1
-60933,Bionicle Tridax Pod Launcher,41,1
-60934,Bionicle Tridax Pod Half,41,1
-60934pat0001,Bionicle Tridax Pod Half with Marbled Blue Pattern,41,1
+60930,Large Figure Engine / Jet Pack (Toa Lewa),41,1
+60933,"Large Figure Weapon, Tridax Pod Launcher",41,1
+60934,"Large Figure Weapon, Tridax Pod Half",41,1
+60934pat0001,"Large Figure Weapon, Tridax Pod Half with Marbled Blue Pattern",41,1
 60935,Large Figure Wing,41,1
 60936,Large Figure Mask Ignika (Toa Ignika),41,1
 60980c01,Duplo Brick 2 x 4 Half with 2 x 2 Slope with Cash Register Print and Sound Effects,4,1
@@ -21247,10 +21280,10 @@ part_num,name,part_cat_id,part_material_id
 6179px6,Tile Special 4 x 4 with Studs on Edge with Ocean Pirate Treasure Map Right-Half Print,15,1
 6180,Tile Special 4 x 6 with Studs on Edges,15,1
 61800,"Large Figure Wing, Small",41,1
-61801,Bionicle Engine Rahi Sonic Jet,41,1
+61801,Large Figure Engine / Jet Pack (Rahi Sonic Jet),41,1
 61802,"Large Figure Skeletal, Torso, Upper, with Axle Holes and 4 Holes (Mistika)",41,1
-61803,Bionicle Armor / Head Support (Axalara T9),41,1
-61805,Bionicle Panel / Shield,41,1
+61803,"Large Figure Shoulder Cover, Armor / Seat Head Support (Axalara T9)",41,1
+61805,Large Figure Armor Panel / Shield,41,1
 61806,"Large Figure Weapon, Claw, Triple, Small with Axle Hole",41,1
 61807pat01,"Large Figure Weapon Blade, 4 Spikes, Marbled Red Pattern (Krika)",41,1
 61807pat02,"Large Figure Weapon Blade, 4 Spikes, Marbled Yellow Pattern (Xplode)",41,1
@@ -21270,6 +21303,7 @@ part_num,name,part_cat_id,part_material_id
 6180pr0006,Tile Special 4 x 6 with Studs on Edges with LEGO STAR WARS BOBA FETT print,15,1
 6180pr0007,Tile Special 4 x 6 with Studs on Edges with 'LEGO STARWARS STORMTROOPER' print,15,1
 6180pr0008,Tile Special 4 x 6 with Studs on Edges with 'LEGO STAR WARS TIE FIGHTER PILOT' print,15,1
+6180pr0009,Tile Special 4 x 6 with Studs on Edges with Lamborghini Sian print,15,1
 6181,Belville Swimming Pool,42,1
 61810,Bionicle Weapon Mistika Nynrah Ghost Blaster Air Pump,36,1
 61811,"Large Figure Weapon Ammo, Mistika Nynrah Ghost Blaster",41,1
@@ -21392,7 +21426,9 @@ part_num,name,part_cat_id,part_material_id
 6217,"Arm Piece with Pin, 3 Fingers",18,1
 6217b,"Arm Piece with Pin, 3 Fingers and Outside Thread Grooves",18,1
 6219,"Wedge, Plate 16 x 14 Shuttle",49,1
+62201,Plastic Sheet with Gold Weapon,38,1
 6222,Brick Round 4 x 4 with 4 Side Pin Holes and Center Axle Hole,20,1
+6223,Brick 2 x 2 without Inside Ridges,11,1
 62233,"Large Figure Weapon Cannon, Midak Skyblaster with Black Housing [Complete Assembly]",41,1
 62243,"Roof, Truck Cover with Sectioned Panels Print, 4 Holes each Side",38,3
 62250,Sticker Sheet for Set 3830-1,58,1
@@ -21799,16 +21835,15 @@ part_num,name,part_cat_id,part_material_id
 6427,Duplo Suitcase,4,1
 64272,"Large Figure Shoulder Cover, Armour, Vorox",41,1
 64272pat0001,"Large Figure Shoulder Cover, Armour, Vorox with Marbled Reddish Brown Pattern",41,1
-64273,Bionicle Ice Armor (Strakk) [Plain],24,1
-64273pat0001,"Bionicle Ice Armor, Marbled Trans-Light Blue Pattern (Strakk)",41,1
-64275,"Bionicle Thornax Launcher Half (Glatorian), Liftarm End 1 x 8",41,1
+64273pat0001,"Large Figure Shoulder Cover, Ice Armor, Marbled Trans-Light Blue Pattern (Strakk)",41,1
+64275,"Large Figure Weapon, Zamor Sphere Launcher, with Hole and Axle Hole",41,1
 64276,Beam 1 x 2 with Ball Joint Straight,55,1
 64277c01,"Large Figure Weapon Spiked Ball, Thornax Fruit with Black Band",41,1
 6428,Duplo Panel 1 x 2 x 1 2/3 Sloped with 3 Embossed Gauges,4,1
 64291,"Large Figure Torso Cover, Armour, Stronius",41,1
-64292,Bionicle Shin / Ankle Guard,41,1
-64295,"Bionicle Shoulder Armour, Vastus Snake Armour",41,1
-64296,Bionicle Toa Webbed Fin Armour,41,1
+64292,"Large Figure Leg Cover, Armor, Shin / Ankle Guard",41,1
+64295,"Large Figure Shoulder Cover, Armor, Snake (Vastus)",41,1
+64296,"Large Figure Armor, Webbed Fin",41,1
 64297,"Large Figure Weapon Sword, Glatorian Flame Sword",41,1
 64297pat0001,"Large Figure Weapon Sword, Glatorian Flame Sword with Marbled Yellow Tip Pattern",41,1
 64299,"Large Figure Weapon Blade, Double Curved (Mata Nui Scarab Shield Half)",41,1
@@ -22103,7 +22138,9 @@ part_num,name,part_cat_id,part_material_id
 649pb08a,Road Sign Triangle with Skidding Car Print (Old Car with Tire on Back),38,1
 649pb08b,Road Sign Triangle with Skidding Car Print (Newer Car no Tire on Back),38,1
 649pb09,Road Sign Triangle with Roadworks Print - 1 Dirt Pile,38,1
-649pb10,Road Sign Triangle with Roadworks Print - 2 Dirt Piles,38,1
+649pb10,Road Sign Triangle with Roadworks Print - 2 Dirt Piles - undetermined,38,1
+649pb10a,Road Sign Triangle with Roadworks Print - 2 Dirt Piles - Thick Worker,38,1
+649pb10b,Road Sign Triangle with Roadworks Print - 2 Dirt Piles - Thin Worker,38,1
 649pb11,Road Sign Triangle with Pedestrian Crossing 1 Person Print,38,1
 650,Hinge Coupling - Nylon,18,1
 65004,"Maxifig Arm, Right with Yellow Elbow Pad, Black Wrist",60,1
@@ -22117,7 +22154,6 @@ part_num,name,part_cat_id,part_material_id
 65066pr0002,Glass for Frame 1 x 6 x 7 with Bow with Dark Red/Gold Pattern print,16,1
 65067,"Pod, Arcade Machine",7,1
 65068,"Plate Special 6 x 8 x 1 with Bar, Door",9,1
-65072,Minifig Wrap with Mask [PLAIN],65,1
 65072pat0001,Minifig Wrap with White Mask [PLAIN],65,1
 65072pat0001pr0001,"Minifig Wrap with White Mask, Medium Azure Asian Symbol on Black print",65,1
 65072pat0001pr0002,"Minifig Wrap with White Mask, Medium Azure Asian Symbol on Black print",65,1
@@ -22145,6 +22181,10 @@ part_num,name,part_cat_id,part_material_id
 65116,Duplo Mixer Top with Whisk,4,1
 6514,Duplo Swing Seat,4,1
 6515,Duplo Technic Brick 2 x 10 with 9 holes,4,1
+65151,Shock Absorber,25,1
+65157pr0001,"Duplo 2 x 2 Round Cake with Stud on Top, Strawberry Print",4,1
+65157pr0002,"Duplo 2 x 2 Round Cake with Stud on Top, Rainbow Print",4,1
+65157pr0003,"Duplo 2 x 2 Round Cake with Stud on Top, Drizzled Frosting Print",4,1
 6517,Duplo Technic Brick 2 x 4 with 3 Holes,4,1
 65172,"Dino Head Triceratops Reddish Brown/Olive Green Brindle, Light Bluish Gray Horns",28,1
 65177,Sticker Sheet for Set 75957-1,58,1
@@ -22220,6 +22260,8 @@ part_num,name,part_cat_id,part_material_id
 6541,Technic Brick 1 x 1 with Hole,8,1
 65413,Differential Gear - 28 Teeth with Round Axle Hole,52,1
 65414,Differential Gear House,52,1
+65416,"DESIGN ELEMENT W/ CROSS HOLE, NO. 1",29,1
+65422,Rotor Blade 3 x 19 with 3 Holes,40,1
 65425pr0001,Minifig Hair Ponytail High with Red Band,65,1
 65425pr0002,Minifig Hair Ponytail High with Dark Red Band,65,1
 65426,Wedge Plate 2 x 4 27° Right,49,1
@@ -22380,10 +22422,13 @@ part_num,name,part_cat_id,part_material_id
 65998,Sticker Sheet for Set 60267-1,58,1
 6599stk01,Sticker for Set 6599 - (71623/4107864),58,1
 6602stk01,Sticker for Set 6602-1 - (4315),58,1
+66090,Minifig Hair Upright Ponytail with Orange Streak,65,1
+66091,Minifig Hair Long with 2 Buns and Green Streaks,65,1
+66097,Minifig Helmet with Golden Ring through Nose,65,1
 66109,Sticker Sheet for Set 60242-1,58,1
 6610stk01,Sticker for Set 6610 - (192915),58,1
 66111,Sticker Sheet for Set 60243-1,58,1
-66155,"RIM, WIDE, DIA. 30X20, W/ CROSS HOLE",29,1
+66155,Wheel 30 x 20  With Center Axle Holes,29,1
 661pb01,"HO Scale, VW Beetle (longer version)",17,1
 66208,"Minifig Creature Body, 4 Legs, Long Neck with Purple Stripes Print (Troll)",13,1
 66211,Sticker Sheet for Set 60248-1,58,1
@@ -22499,7 +22544,10 @@ part_num,name,part_cat_id,part_material_id
 66793,Sticker Sheet for Set 40433-1,58,1
 66821,DOTS Bracelet,17,2
 66826,Felt Heart Small with Square Hole,38,3
+66828,Felt Heart Large with Square Hole,38,3
+66829,"Flower 4 x 4 Felt, Square Hole",17,3
 66830,Felt Flower with Square Hole,38,3
+66831,"Leaf 6  1/2 x 7 1/2 Felt, Square Hole",17,1
 66832,"Felt Wing, Small with Square Hole",38,3
 66833,"Felt Wing, Large with Square Hole",38,3
 6683stk01,Sticker for Set 6683,58,1
@@ -22512,6 +22560,10 @@ part_num,name,part_cat_id,part_material_id
 66888,Sticker Sheet for Set 40385-1,58,1
 66889,Sticker Sheet for Set 40393-1,58,1
 66899,Minifig Hipwear Energy Blast,27,1
+66909,Weapon Hilt Symmetric,27,1
+66912,"Minifig Hair Short, Swept Up with Red Head Band",65,1
+66912pr0001,"Minifig Hair Short, Swept Up with Red Head Band with Gold Trim/Decoration",65,1
+66913,Neckware Accessorize Headphones,27,1
 6693,"Scala Spiral Staircase Step, Top Step",42,1
 66930,Sticker Sheet 2 for Set 76898-1,58,1
 66931,Sticker Sheet for Set 76899-1,58,1
@@ -22528,19 +22580,27 @@ part_num,name,part_cat_id,part_material_id
 67026,Sticker Sheet for Set 70431-1,58,1
 67027,Sticker Sheet for Set 70432-1,58,1
 67040pr0001,"Sea Turtle with Black Eyes, Medium Dark Flesh Shell print",28,1
+67043pat0001,Minifig Black Pirate Hat with Ponytail,65,1
+67043pat0002,Minifig Reddish Brown Pirate Hat with Ponytail,65,1
 67062pr0001,"Hand Right, Glove, Infinity Gauntlet with Silver Panels Print",60,1
 67067,Sticker Sheet for Set 30342-1,58,1
 67095,Tile Round 3 x 3,67,1
 67095pr0001,"Tile Round 3 x 3 with Green, Black, White Circles print (Eye)",67,1
 67095pr0002,"Tile Round 3 x 3 with Brown, White, Black Circles print (Eye)",67,1
 671,Door 1 x 6 x 10,16,1
+67100,"NUNCHAKU, NO. 1",24,1
 67113,Sticker Sheet for Set 31104-1,58,1
 67137,Sticker Sheet for Set 60257-1,58,1
+67140,"Tyre 94.2 x 22 Motorcycle Racing Tread, Narrow",29,1
+67141,"Technic Panel Car Mudguard Arched 15 x 2 x 5, Arched Top",40,1
+67142,"Technic Panel Curved 5 X 13 X 2 Tapered, Left",40,1
 6714c01,Technic Storage Case 36 x 48 with Removable Tray and Dividers,17,1
 67172,"Sail, Triangular, with Red Spiral",38,1
 671stk01,Sticker for Set 671 - (4416),58,1
+67211,"FLAT TILE 1X1, NO. 216",24,1
+67216,"FLAT TILE 1X1, ROUND, NO. 137",24,1
+67217,"FLAT TILE 1X1, ROUND, NO. 138",24,1
 67222,Tile Round 1 x 1 Accessories Pack,67,1
-67319,Duplo Animal Bear,4,1
 67343,Sticker Sheet for Set 10271-1,58,1
 6738stk01,Sticker for Set 6738 - (43661/4173454),58,1
 675,Roadsign Square Tall,24,1
@@ -22550,6 +22610,7 @@ part_num,name,part_cat_id,part_material_id
 675pr02,Road Sign Square-Tall with Parking 'P' Print,38,1
 676,"Road Sign Rectangle, Axle Pole",38,1
 67600,Sticker Sheet for Set 43183-1 - Sheet 1,58,1
+67678,Hose Pneumatic 4 mm D V2 200mm,30,1
 67684,"Minifig Mask Mouse, Black Eyes, Nose, Whiskers",65,1
 676p01,"Road Sign Rectangle, Axle Pole with Snack Bar Print",38,1
 6772stk01,Sticker for Set 6772 - (40327/4144414),58,1
@@ -22562,36 +22623,57 @@ part_num,name,part_cat_id,part_material_id
 6789,"Scala Wall, Vertical Grooved 12 x 2 x 20",42,1
 67898,Sticker Sheet for Set 75278-1,58,1
 679,Homemaker Windowsill Wall Panel 2 x 6 x 2 1/3,23,1
+67901,"MINI HELMET, NO. 290",24,1
+67905,"BUNNY, NO. 7",24,1
 67946,"MINI COSTUME, NO. 24",24,1
 6796,Scala Bottle Holder,42,1
 6797,Technic Engine Air Scoop 4 x 4 x 1 1/3,25,1
 6799,Scala Cupboard Drawer Small (6799),42,1
+68014,"MINI SHIELD, NO. 20",24,1
+68037,"MINI COSTUME, NO. 25",24,1
+68053,Cloth Cape Large,38,3
+68054,Cloth  Coat Tail/Skirt,38,3
 6808,Scala Support Connector with Pin,42,1
 6809,Scala Support Connector with Hole,42,1
 680c01,"Tread Large, Technic [34 Links]",29,1
 6810,"Scala Support Connector Brick, Pin Hole",42,1
+68135,"TURTLE, NO. 9",24,1
 6815stk01,"Sticker for Set 6815 - Sheet 1, Holographic Stars (170900)",58,1
 6815stk02,"Sticker for Set 6815 - Sheet 2, Reflective Trapezoid for Part 30034 (170888)",58,1
 6817stk01,Sticker for Set 6817,58,1
+68196,"Technic Panel Curved 5 X 13 X 2 Tapered, Right",40,1
 6821,Scala Baseplate 44 x 22 with 4 holes,42,1
+68211,Bar 1L with 3 Sprouts/Prongs,32,1
 6821b,Scala Baseplate 44 x 22 with 8 holes,42,1
+68298,"MINI KEYBOARD, NO. 2",24,1
 68300,Sticker Sheet for Set 42111-1,58,1
+68315,"PARTY TOY, NO. 2",24,1
 68325,Brick Round 4 x 4 with Recessed Center,20,1
 68327,Wheel 41 x 15,29,1
+68330,"FLAT TILE 2X3, NO. 36",24,1
+68341,"ROUND BRICK 1X1, NO. 24",24,1
 6836,Scala Wall Panel 5 x 6 with Four Studs,42,1
 6837stk01,Sticker for Set 6837,58,1
 68389,"Minifig Helmet Cyborg Side Open with Hair, Red Square Eye and Red Dot Print",65,1
+68403,"MINI WIG, NO. 293",24,1
 68406pr0001,Minifig Hair Long Curly with Pearl Gold Helmet,65,1
 6840c01,Brick Vac Complete Assembly,17,1
 6840c01pb01,Brick Vac Complete Assembly with Freestyle Bus Print,17,1
 6840c01px1,Brick Vac Complete Assembly with Parrot Print,17,1
+68432,"TILE 2X2, W/ BOW, NO. 5",24,1
+68443,"Minifig Head Special, Pig",62,1
 6845,Scala Washing Machine Door with Round Glass,42,1
 68493,Sticker Sheet for Set 21320-1,58,1
 685,Homemaker Figure Head [Plain],59,1
 6851,Duplo Baseplate 12 x 16,4,1
 6853,Container Storage Case Build-N-Store Chest Divider,17,1
+68535,"CAPE, NO. 34",24,1
+68540,"Minifig Hair with Bun, 2 Horns, Golden Tiara",65,1
 6854stk02,"Sticker for Set 6854 - Sheet 2, Holographic Stars (170900)",58,1
+68561,"FLAT TILE 2X2, NO. 420",24,1
 68568,Plate Round Corner 3 x 3 with 2 x 2 Round Cutout,21,1
+68574,"MINI HAT, NO. 132",24,1
+68577,Rim 56 X 34 Lamborghini,29,1
 6857stk01,Sticker for Set 6857 - (75012/4659242),58,1
 6859,Scala Window Frame 14 x 3 x 15 1/3,42,1
 685p01,Homemaker Figure Head with Face Print,59,1
@@ -22600,6 +22682,7 @@ part_num,name,part_cat_id,part_material_id
 685px4,"Homemaker Figure Head with Eyes, Eyebrows and Smile Print",59,1
 685px5,"Homemaker Figure Head with Eyes, Eyebrows and Moustache Print",59,1
 6860,"Scala Wall, Vertical Grooved 12 x 2 x 8",42,1
+68651,"MINI HELMET, NO. 300",24,1
 6867c01,Storage Suitcase Oval,17,1
 6869stk01,Sticker for Set 6869 - (10839/6007019),58,1
 6870,Scala Window Glass 5 x 1 x 10 1/3,42,1
@@ -22614,9 +22697,11 @@ part_num,name,part_cat_id,part_material_id
 6882,Scala Kitchen Sink 6 x 6,42,1
 6883,Scala Large Drawer,42,1
 68867,Minifig Hair Long Straight,65,1
-6890,Scala Wall 40 x 2 x 24 with Door,42,1
-6890c02pr0001,Scala Wall 40 x 2 x 24 with Door and Orange Wallpaper Print,42,1
-6890pb01c01,"Scala Wall, Vertical Grooved 40 x 2 x 22 2/3 with Door, with Tudor Frame Light Salmon on White Print [5404]",42,1
+6890,Scala Wall 40 x 2 x 24 with Door Cutout,42,1
+6890pr0001,"Scala Wall, Vertical Grooved 40 x 2 x 22 2/3 with Door Cutout, White Tudor Frame on Light Salmon Print",42,1
+6890pr0002,"Scala Wall, Vertical Grooved 40 x 2 x 22 2/3 with Door Cutout,  Plain White Stripe on Medium Orange Print",42,1
+6890pr0003,"Scala Wall, Vertical Grooved 40 x 2 x 22 2/3 with Door Cutout, Green Stripe with White Flowers on Medium Orange Print",42,1
+6890pr0004,Scala Wall 40 x 2 x 24 with Door and Orange Wallpaper Print,42,1
 6891pr0001,"Scala Wall, Vertical Grooved 40 x 2 x 22 2/3 with Window and Door Openings, with Tudor Frame Light Salmon on White Print",42,1
 6891pr0002,Scala Wall 42 x 2 x 27 with Window and Door and Light Orange and White Print,42,1
 6892,Scala Wall 18 x 2 x 24,42,1
@@ -22653,6 +22738,10 @@ part_num,name,part_cat_id,part_material_id
 6923,Scala Tile 8 x 20 x 2/3 Round Ends,42,1
 6923b,Scala Tile 8 x 20 x 2/3 Round Ends with Studs,42,1
 6925,Scala Chair - Highback Dining,42,1
+69261,"Sail 36 x 20 Trapezium with 4 Holes, Red Stripes print",38,1
+69263,"Sail 33 x 17 Trapezium with 4 Holes, Red Stripes print",38,1
+69264,"Sail 19 x 17 Square with 4 Holes, Red Stripes print",38,1
+69265,"Sail Triangular 16 x 24 with 6 Holes, Red Stripes print",38,1
 6932a,Scala Accessories Bottle Perfume with Pyramid Base and Atomizer,42,1
 6932b,Scala Accessories Bottle Perfume with Square Base,42,1
 6932c,Scala Accessories Bottle Perfume with Rectangle Base,42,1
@@ -22670,8 +22759,14 @@ part_num,name,part_cat_id,part_material_id
 6941,Scala Bed Support 2 x 8 x 1 2/3,42,1
 6942,Dish 5 x 5,21,1
 6943,Scala Wall Shelf 6 x 3 x 4,42,1
+69436,"FLAT TILE 1X1, 1/2 CIRCLE, NO. 8",24,1
 6944,Scala Utensil Tray with Handles 5 x 4 x 1,42,1
+69441,"CIRCLE TILE 1X1 1/4, NO. 24",24,1
 6945,Scala Utensil Saucepan,42,1
+69459,"FLAT TILE 1X1, 1/2 CIRCLE, NO. 11",24,1
+69461,"FLAT TILE 1X1, NO. 226",24,1
+69462,"FLAT TILE 1X1, NO. 227",24,1
+69463,"FLAT TILE 1X1, NO. 228",24,1
 6950,Scala Table Support 2 x 6 x 6 1/3,42,1
 6953,"Scala Wall, Panel 6 x 10",42,1
 6958stk01,"Sticker for Set 6958 - Sheet 1, Alien Code (170910)",58,1
@@ -22955,7 +23050,7 @@ part_num,name,part_cat_id,part_material_id
 74201c01,Duplo Motorcycle,4,1
 74201c01pr0001,Duplo Motorcycle with Yellow Number 2 Print,4,1
 74201c02,Duplo Motorcycle (Clown Bike),4,1
-74261,Hero Factory Joint Extender [High Friction],41,1
+74261,"Large Figure Skeletal, Joint Extender [High Friction]",41,1
 743,Gear Samsonite 35 Tooth,52,1
 744,Gear Samsonite 42 Tooth,52,1
 74415,Sticker Sheet for Set 5884-1,58,1
@@ -23876,7 +23971,8 @@ part_num,name,part_cat_id,part_material_id
 85964pr0003,Duplo Cloth Blanket 5 x 6 with White Polka Dots Print,4,3
 85964pr0004,Duplo Cloth Blanket 5 x 6 with White Stars Print,4,3
 85964pr0005,Duplo Cloth Blanket 5 x 6 with Rapunzel Sun print,4,3
-85964pr0006,Duplo Cloth Blanket 5 x 6 with Triangles Print,4,3
+85964pr0006,Duplo Cloth Blanket 5 x 6 with Rhombuses and Dots Print,4,3
+85964pr0007,Duplo Cloth Blanket 5 x 6 with Clouds Print,4,3
 85966,Duplo Brick 2 x 6 with 'Welcome To Great Waterton' Sign Print,4,1
 85969,Wheel Cover 5 Spoke Thick [Fits 56145],29,1
 85970,Brick Curved 10 x 1 [Asymmetric Inside Ridges],37,1
@@ -24147,6 +24243,7 @@ part_num,name,part_cat_id,part_material_id
 87079pr0220,Tile 2 x 4 with '1 MIIL' Print,19,1
 87079pr0414,Tile 2 x 4 with Groove with Lego Logo and #LEGOSDCC Print,19,1
 87079pr133,Tile 2 x 4 with LEGO Friends Logo,19,1
+87079pr9988,Tile 2 x 4 with Black I ♥ LEGO® STORE NICE Print (Red Heart),19,1
 87079pr9989,Tile 2 x 4 with 'LEGO STAR WARS 2020' print,19,1
 87079pr9990,Tile 2 x 4 with 'I Heart LEGO STORE AMSTERDAM' Print,19,1
 87079pr9991,Tile 2 x 4 with ‘I Heart LEGO STORE UTRECHT' Print,19,1
@@ -24161,6 +24258,7 @@ part_num,name,part_cat_id,part_material_id
 87079pro182,Tile 2 x 4 with Mia Lightning print,19,1
 8707stk01,Sticker for Set 8707 - (85697/4544912),58,1
 87080,"Technic Panel Fairing # 1 Small Smooth Short, Side A",40,1
+87080pr0001,"Technic Panel Fairing # 1 Small Smooth Short, Side A with print",40,1
 87081,Brick Round 4 x 4 [Centre Hole],20,1
 87082,Technic Pin Connector Hub with 2 Pins with Friction Ridges Lengthwise,12,1
 87083,Technic Axle 4 with Stop,46,1
@@ -24334,16 +24432,15 @@ part_num,name,part_cat_id,part_material_id
 87781pr0001,Minifig Helmet Space with Team Extreme Logo Print,65,1
 87785,"Large Figure Cape, Pointed Collar with Black Back (Zurg)",38,3
 87788,Large Figure Mask Hau (Stars),41,1
-87789,Bionicle Armour Small 2 Claw,41,1
-87790,Bionicle Armor Small Triangular with Pincer End,41,1
+87789,"Large Figure Limb Cover, Armor with 2 Small Claws",41,1
+87790,"Large Figure Torso Cover, Armor, Small Triangular with Pincer End",41,1
 87791,"Large Figure Foot, Small with Axle Connector",41,1
 87792,"Large Figure Mask Piraka, with Flexible Spine (Stars)",41,1
-87793,"Bionicle Rahkshi Back Cover with Mask and 3 Blades, Stars Series [Plain]",24,1
-87793pat0002,"Bionicle Rahkshi Back Cover with Mask and 3 Flat Silver Blades, Stars Series",41,1
+87793pat0002,Large Figure Back Cover with Mask and 3 Flat Silver Blades (Rahkshi),41,1
 87794,"Large Figure Skeletal, Torso, Angular with Ball Joints",41,1
 87796,"Large Figure Skeletal, Limb, Angular with Ball Joint and Ball Socket",41,1
 87797,"Large Figure Foot, Type 1",41,1
-87798,Hero Factory Leg Guard,41,1
+87798,"Large Figure Limb Cover, Leg Guard",41,1
 87799,Large Figure Chest Badge with 'H' Hero Factory Logo in Spiked Circle,41,1
 87800pat0001,"Large Figure Weapon, Ice Arm with Trans-Light Blue Icicle Blade",41,1
 87801,"Large Figure Chest Cover, Armour with Triple Spiked Shoulders",41,1
@@ -24364,19 +24461,18 @@ part_num,name,part_cat_id,part_material_id
 87815,"Large Figure Weapon Gun, Sonic Blaster Arm",41,1
 87816,"Large Figure Chest Cover, Armour with Double Spiked Shoulders",41,1
 87817,"Large Figure Mask, Stringer",41,1
-87820,"Hero Factory Shield, Type 1",41,1
+87820,"Large Figure Shield, Type 1",41,1
 87821,"Large Figure Mask, Xplode",41,1
 87822,"Large Figure Mask, Meltdown",41,1
 87823,"Large Figure Mask, Corroder",41,1
 87824,"Large Figure Mask, Thunder",41,1
-87825,Hero Factory Shield / Armour Spiked [Plain],24,1
-87825pat0001,Hero Factory Shield / Armour Spiked with Marbled Yellow Pattern,41,1
-87825pat0002,Hero Factory Shield / Armour Spiked with Marbled Blue Pattern,41,1
+87825pat0001,"Large Figure Armour, Spiked with Marbled Yellow Pattern",41,1
+87825pat0002,"Large Figure Armour, Spiked with Marbled Blue Pattern",41,1
 87826,"Large Figure Accessory, Container / Bucket",41,1
 87827,"Large Figure Weapon Claw, Corroder",41,1
 87828,Large Figure Weapon Crush Claw,41,1
 87831,"Large Figure Mask, Rotor",41,1
-87837,Large Figure Claw with Ball Joint Socket (Ben 10),41,1
+87837,"Large Figure Weapon, Claw with Ball Joint Socket",41,1
 87838,"Large Figure Skeletal, Torso, Angular with 7 Ball Joints",41,1
 87839,"Large Figure Skeletal, Limb, with 2 Ball Sockets",41,1
 87840,"Large Figure Skeletal, Limb, with 2 Ball Joints",41,1
@@ -24508,7 +24604,7 @@ part_num,name,part_cat_id,part_material_id
 88691,Duplo Animal Lion Adult Female New Style,4,1
 88693,"Duplo Animal Zebra, Smooth Mane",4,1
 88694,"Duplo Animal Alligator Type 3 - Mouth Opens, Wide Snout",4,1
-88695,"Large Figure Barb, Faceted Spike (Ben 10)",41,1
+88695,"Large Figure Barb / Horn, Faceted Spike",41,1
 88704,Equipment Whip - Bent,27,1
 88760,Duplo Plate 2 x 4 with Axle Holders,4,1
 88760c01pr0001,Duplo Car Base 2 x 4 with Black Tires and Red Rally Wheels,4,1
@@ -24562,7 +24658,7 @@ part_num,name,part_cat_id,part_material_id
 88930pr0032,"Slope Brick Curved 2 x 4 x 2/3 No Studs, with Bottom Tubes and  'GT', White Stripes/Lines print",37,1
 88930pr0200,"Slope Brick Curved 2 x 4 x 2/3 No Studs, with Bottom Tubes and Iron Man Mask print",37,1
 88954,"Roof, Awning with Tabs and Holes",38,3
-88964,"Large Figure Barb, Flame (Ben 10)",41,1
+88964,"Large Figure Barb / Horn, Flame",41,1
 8896stk01,Sticker for Set 8896 - (89826/4580717),58,1
 8897stk01,Sticker for Set 8897 - (89827/4580719),58,1
 890,Road Sign Clip-on 2 x 2 Octagon,38,1
@@ -24690,6 +24786,7 @@ part_num,name,part_cat_id,part_material_id
 90201,Plate Special 2 x 6 with Sloped Bars [Cow Catcher],36,1
 90202,Technic Pin Connector Round with 4 Clips,12,1
 90203,"Maxifig Arm, Right, Bear (Lotso)",60,1
+902097,Dacta Storage Bin Upper Tray - 4 Cups [For New Style Storage Bins],17,1
 90254,Wampa Arm Right,28,1
 90255,Wampa Arm Left,28,1
 90258,Brick Special 2 x 2 with Grooves and Axle Hole,5,1
@@ -24810,7 +24907,7 @@ part_num,name,part_cat_id,part_material_id
 90623,"Large Figure Skeletal, Torso with 9 Ball Joints, and 8 Holes, Large",41,1
 90625,"Large Figure Skeletal, Torso with 9 Ball Joints, and 6 Holes, Medium",41,1
 90626,"Large Figure Skeletal, Torso with 7 Ball Joints, and 6 Holes, Small",41,1
-90630,"Technic Pin Connector Perpendicular 3L with 2 Pins, 2 Ball Joints",41,1
+90630,"Technic Pin Connector Perpendicular 3L with 2 Pins, 2 Ball Joints",12,1
 90634,"Large Figure Skeletal, Connector, Perpendicular, 3L with 2 Pins, 3 Ball Joints on Axle",41,1
 90636,"Large Figure Limb Cover, Size 8, Armor with Ball Joint Socket",41,1
 90638,"Large Figure Limb Cover, Size 6, Armor with Ball Joint Socket",41,1
@@ -24946,25 +25043,24 @@ part_num,name,part_cat_id,part_material_id
 92107,Plate Special 6 x 8 Trap Door Frame Horizontal [Long Pin Holders],18,1
 92199,Large Figure Chest Badge with 'H' Hero Factory Logo Design,41,1
 92201,"Large Figure Chest Cover, Armour with Trapezoid Shoulders",41,1
-92202,"Hero Factory Shield, Type 2",41,1
-92203,Hero Factory Face Shield with Half Visor,41,1
-92204,Hero Factory Face Shield with Saw Blade,41,1
+92202,"Large Figure Shield, Type 2",41,1
+92203,"Large Figure Mask, Face Shield with Half Visor",41,1
+92204,"Large Figure Mask, Face Shield with Saw Blade",41,1
 92205,"Large Figure Weapon Saw, Rotary / Circular",41,1
 92206,Large Figure Weapon Claw,41,1
 92207,Large Figure Weapon Saw,41,1
 92208,Large Figure Helmet,41,1
-92209,Hero Factory Face Shield with Goggles,41,1
-92210,Hero Factory Face Shield with Mouth Guard,41,1
-92211,Hero Factory Face Shield with Scope,41,1
-92212,Hero Factory Weapon Accessory - Flame [Plain],24,1
-92212pat0001,"Hero Factory Weapon Accessory - Flame, Marbled Bright Light Orange Pattern",41,1
+92209,"Large Figure Mask, Face Shield with Goggles",41,1
+92210,"Large Figure Mask, Face Shield with Mouth Guard",41,1
+92211,"Large Figure Mask, Face Shield with Scope",41,1
+92212pat0001,"Large Figure Weapon Accessory, Flame with Marbled Bright Light Orange Pattern",41,1
 92213,"Large Figure Mask, Dual Sided - Jetbug / Nitroblast",41,1
 92214,"Large Figure Mask, Dual Sided - Fire Lord / Drilldozer",41,1
-92215,Hero Factory Weapon Accessory - Machinery Armor,41,1
-92216,Hero Factory Shield Cap,41,1
+92215,"Large Figure Weapon Accessory / Engine, Jet Pack",41,1
+92216,Large Figure Armor / Shield Cap,41,1
 92217,"Large Figure Weapon Claw, Half",41,1
 92218,"Large Figure Weapon Blade, Long",41,2
-92219,Hero Factory Face Shield with Visor,41,1
+92219,"Large Figure Mask, Face Shield with Visor",41,1
 92220,"Large Figure Weapon Claw, with Clip",41,1
 92221,"Large Figure Weapon Blade, Angled",41,1
 92222,"Large Figure Shield, with Handle for Clip",41,1
@@ -24979,7 +25075,7 @@ part_num,name,part_cat_id,part_material_id
 92231,"Large Figure Mask, Robotic Dog - Large",41,1
 92232,"Large Figure Mask, Insect - Large",41,1
 92233,"Large Figure Hand Cover, Armor with Handles for Clips",41,1
-92234,Hero Factory Spine Armour [Flexible],41,1
+92234,Large Figure Armor with Spikes [Flexible],41,1
 92235,"Large Figure Weapon Blade / Claw / Spike, Flexible",41,1
 92235pat0002,"Large Figure Weapon Blade / Claw / Spike, Witch Doctor, Marbled Red Pattern",41,1
 92235pat0003,"Large Figure Weapon Blade / Claw / Spike, Flexible with Marbled Lime Pattern",41,1
@@ -25625,7 +25721,8 @@ part_num,name,part_cat_id,part_material_id
 93219pr0007,Minifig Cap Short Curved Bill with Seams on Peak and Button on Top with Yellow Badge and Minifig Head Print,65,1
 93219pr0008,Minifig Cap Short Curved Bill with Seams on Peak and Button on Top with Fast Food Logo Print,65,1
 93219pr0009,Minifig Cap Short Curved Bill with Seams on Peak and Button on Top with White 'PIZZA' and Pizza Slice Print,65,1
-93220pr0001,Sports Baseball Bat 4L with White Grip Handle Print,27,1
+93220pr0001,Sports Baseball Bat 4L with Medium Dark Flesh Print,27,1
+93220pr0002,Sports Baseball Bat 4L with Dark Orange Print,27,1
 93220pr0003,Sports Baseball Bat 4L with White Grip Handle and 3 White Diamonds,27,1
 93220pr0004,Sports Baseball Bat 4L with Black Grip Handle Print,27,1
 93220pr0005,"Sports Baseball Bat 4L with Crack, Metal Plates print",27,1
@@ -25685,6 +25782,7 @@ part_num,name,part_cat_id,part_material_id
 93273pr0014,Slope Curved 4 x 1 Double with No Studs and Joker Smile with Red Lips and Yellow Teeth Print,37,1
 93273pr0015,"Slope Curved 4 x 1 Double with No Studs and 3 Silver Lines, Red Cracks",37,1
 93273pr0016,Slope Curved 4 x 1 Double with No Studs and Red Triangles print,37,1
+93273pr0017,Slope Curved 4 x 1 Double with No Studs with Lamborghini print,37,1
 93273pr9998,Slope Curved 4 x 1 Double with No Studs and Utility Pouches Print,37,1
 93273pr9999,Slope Curved 4 x 1 Double with No Studs and Red Star with Black Outline Print,37,1
 93274,Bracket 1 x 2 - 2 x 4,9,1
@@ -25923,7 +26021,6 @@ part_num,name,part_cat_id,part_material_id
 95201pr0004,"Headwear Accessory Mask / Face, Alien with Black Eyes, Eyelashes and Magneta Nose Print",27,1
 95202pr0001,"Minifig Head Special, Alien with 2 Fangs and Brain Tissue Print",59,1
 95203pr0002,"Minifig Head Special, Alien with 4 Fangs and Brain Tissue Print",59,1
-95204,Clinger (Alien Invader) [Plain],65,1
 95204pr0001,Clinger (Alien Invader),65,1
 95207pr0001,"Duplo Car Body, 2 Studs on Spoiler, Wide Fenders, with Cars Shu Todoroki Print",4,1
 95207pr0002,"Duplo Car Body, 2 Studs on Spoiler, Wide Fenders, with Cars Carla Veloso Print",4,1
@@ -27028,12 +27125,15 @@ part_num,name,part_cat_id,part_material_id
 970c00pr1869,"Legs and Hips with Gold Tied Sash, and Gold Decoration Print",61,1
 970c00pr1870,Legs and Hips with Dark Tan Sash Belt and Sand Blue Coattails Print,61,1
 970c00pr1872,Legs and Hips with Gold Tied Sash Belt Print,61,1
+970c00pr1874,"MINI LOWER PART, NO. 1874",13,1
 970c00pr1876,"MINI LOWER PART, NO. 1876",13,1
 970c00pr1877,"MINI LOWER PART, NO. 1877",13,1
 970c00pr1878,"MINI LOWER PART, NO. 1878",13,1
 970c00pr1879,"MINI LOWER PART, NO. 1879",13,1
 970c00pr1880,"MINI LOWER PART, NO. 1880",13,1
+970c00pr1881,"MINI LOWER PART, NO. 1881",13,1
 970c00pr1882,"MINI LOWER PART, NO. 1882",13,1
+970c00pr1890,"MINI LOWER PART, NO. 1890",13,1
 970c00pr1891,"MINI LOWER PART, NO. 1891",13,1
 970c00pr1892,"MINI LOWER PART, NO. 1892",13,1
 970c00pr2015,Legs and Hips with Left Leg Pocket for 2015 Character Encyclopedia - Boba Fett,61,1
@@ -27043,6 +27143,9 @@ part_num,name,part_cat_id,part_material_id
 970c00pr6630,"Legs and Hips with Black Sash, Armor, Blue Knee Straps and Black Zoris Print",61,1
 970c00pr970c00pr9870,Legs and Hips with Tattered Knees and Light Bluish Gray Stitching Jeans Print,61,1
 970c00pr9744,Legs and Hips with Dollar Bills Print,61,1
+970c00pr9863,Legs and Hips Medium Blue Markings,61,1
+970c00pr9864,"Legs and Hips Dark Bluish Grey Straps, Knee Caps",61,1
+970c00pr9865,"Legs and Hips Dark Bluish Grey Straps, Knee Caps",61,1
 970c00pr9866,"Legs and Hips Red Straps, Purple Belt, Knee Caps, Steel Toes",61,1
 970c00pr9867,"Legs and Hips Green Straps, Gold Trim",61,1
 970c00pr9868,Hips and Legs Gold Armour (Wonder Woman),61,1
@@ -31665,7 +31768,6 @@ part_num,name,part_cat_id,part_material_id
 973pr4525c01,"Minifig Torso White Bands, Black Trim, Gold Dragon",60,1
 973pr4526c01,"Minifig Torso Robe, Black TRim, Azure Shirt, Sash, Gold Dragon",60,1
 973pr4527c01,"MINI UPPER PART, NO. 4527",60,1
-973pr4528c01,"Minifig torso Green Camouflage Armour, Straps, Utility Belt",60,1
 973pr4529c01,Minifig Torso Blue Suit with White Bunny,60,1
 973pr4530c01,"Minifig Torso Camouflage, Utility Belt, Pockets",60,1
 973pr4532c01,"Minifig Torso Brown Vest, Yellow Brass, White Shirt, Grey Armour",60,1
@@ -32083,14 +32185,19 @@ part_num,name,part_cat_id,part_material_id
 973pr5095c01,"MINI UPPER PART, NO. 5095",60,1
 973pr5096c01,"MINI UPPER PART, NO. 5096",60,1
 973pr5097c01,"MINI UPPER PART, NO. 5097",60,1
+973pr5105c01,"MINI UPPER PART, NO. 5105",13,1
+973pr5106c01,"MINI UPPER PART, NO. 5106",13,1
 973pr5107c01,"MINI UPPER PART, NO. 5107",13,1
 973pr5111c01,"MINI UPPER PART, NO. 5111",13,1
 973pr5112c01,"MINI UPPER PART, NO. 5112",13,1
 973pr5113c01,"MINI UPPER PART, NO. 5113",13,1
 973pr5114c01,"MINI UPPER PART, NO. 5114",13,1
 973pr5116c01,"MINI UPPER PART, NO. 5116",13,1
+973pr5118c01,"MINI UPPER PART, NO. 5118",13,1
 973pr5120c01,"MINI UPPER PART, NO. 5120",13,1
 973pr5121c01,"MINI UPPER PART, NO. 5121",60,1
+973pr5134c01,"MINI UPPER PART, NO. 5134",13,1
+973pr5135c01,"MINI UPPER PART, NO. 5135",13,1
 973pr5137c01,"MINI UPPER PART, NO. 5137",13,1
 973pr5142c01,"MINI UPPER PART, NO. 5142",13,1
 973pr5662c01,"Torso Vest, White Shirt Rumpled, Dark Red Tie, Shoulder Holster Print / Medium Dark Flesh Arms with White Short Sleeves / Medium Dark Flesh Hands",60,1
@@ -32110,6 +32217,12 @@ part_num,name,part_cat_id,part_material_id
 973pr9,Minifig Torso with SW Imperial Grand Moff Print,60,1
 973pr9698c01,"Torso Suit Jacket with Black Shirt and Tie, Gold Chain and Dollar Bills Print, Green Arms with Dollar Bills Print, Light Flesh Hands",60,1
 973pr9699c01,"Black Torso Batman Logo with Muscles and Roman Breastplate Print, Light Flesh Arms and Hands",60,1
+973pr9712c01,"Minifig Torso Medium Blue Batman Symbol, Utility Belt",60,1
+973pr9713c01,"Minifig Torso Sweater, Bright Light Blue Shirt",60,1
+973pr9714c01,"Minifig Torso Shirt, Buttons",60,1
+973pr9715c01,"Minifig Torso Armour, Gold Straps (Black Widow)",60,1
+973pr9716c01,"Minifig Torso Olive Green Straps, Black Shirt",60,1
+973pr9717c01,"Minifig Torso Medium Azure/Dark Orange Circuitry, Dark Bluish Grey Pockets",60,1
 973pr9718c01,Minifig Torso Gold/Red/Dark Turquoise Decorations (Monkie Kid),60,1
 973pr9719c01,"Minifig Torso Golden Symbol, Armour, Pearl Dark Gray Arms",63,1
 973pr9720c01,"Minifig Torso Dark Turquoise Vest, White Shirt with Gold Trim",60,1
@@ -32901,7 +33014,9 @@ part_num,name,part_cat_id,part_material_id
 98138pr0156,"Tile Round 1 x 1 with Green Eye, Yellow Eyelid print",67,1
 98138pr0157,"Tile Round 1 x 1 with Reddish Brown Eye Off-Center, Yellow Eyelid print",67,1
 98138pr0158,Tile Round 1 x 1 with print,67,1
-98138pr0159,Tile Round 1 x 1 with print,67,1
+98138pr0159,"Tile Round 1 x 1 with Yellow, White Light Bluish Grey and Dark Red Circles print",67,1
+98138pr0160,"Tile Round 1 x 1 with Reddish Brown Eye, Center print",67,1
+98138pr0161,Tile Round 1 x 1 with Lamborghini Symbol print,67,1
 98138pr9996,Tile Round 1 x 1 with Monster Eye Print,67,1
 98138pr9997,Tile Round 1 x 1 with Closed BrickHeadz Eye Print,67,1
 98138pr9998,Tile Round 1 x 1 with Ninjago Trapped Cole Print (70600-1),67,1
@@ -33267,13 +33382,13 @@ part_num,name,part_cat_id,part_material_id
 98580,"Large Figure Mask, Half (Splitface)",41,1
 98581,"Large Figure Mask, Insect",41,1
 98582,"Large Figure Mask, Robotic Shark (Jawblade)",41,1
-98585,Hero Factory Weapon Barrel with 2 Pin Holes and 3 Axle Holes,41,1
+98585,"Large Figure Weapon, Barrel with 2 Pin Holes and 3 Axle Holes",41,1
 98587,"Large Figure Mask, One Eye Opening (XT4)",41,1
 98588pat0002,"Large Figure Weapon Lightning, with Marbled Blue and Yellow Pattern",41,1
-98589,Hero Factory Shoulder Armour with Wings,41,1
+98589,"Large Figure Wings with Shoulder Cover, Armour",41,1
 98590,"Large Figure Skeletal, Torso with 6 Ball Joints, and 4 Holes, Extra Small",41,1
 98592,"Large Figure Limb Cover, Armor, Knee / Shoulder",41,1
-98593,"Hero Factory Shoulder Armour, Sonic Speaker",41,1
+98593,"Large Figure Shoulder Cover, Sonic Speaker",41,1
 98594,"Large Figure Mask, Nex",41,1
 98596,"Large Figure Mask, Six Eyes (Core Hunter)",41,1
 98597,"Large Figure Foot, with 2 Toes",41,1
@@ -34402,10 +34517,10 @@ dupupn0103,"Duplo Figure Diego with Green Shorts, Blue Shirt, Tan Vest",57,1
 dupupn0104,Duplo Mattress 6 x 8,4,3
 dupupn0105c01,Duplo Rattle Circular with Yellow/Blue Wheels,4,1
 dupupn0105c02,Duplo Rattle Circular with Red/Blue Wheels,4,1
-dupupn0106pr0001,"Duplo 2 x 2 Round Cake with Stud on Top, Strawberry Print",4,1
-dupupn0106pr0002,"Duplo 2 x 2 Round Cake with Stud on Top, Rainbow Print",4,1
-dupupn0106pr0003,"Duplo 2 x 2 Round Cake with Stud on Top, Drizzled Frosting Print",4,1
+dupupn0106,"Duplo Cloth Carpet 4 x 4 Round with White Back, Plush",4,3
 dupupn0107pr0001,Duplo Cloth Towel 3 x 6 with Triangles Pattern,4,3
+dupupn0107pr0002,Duplo Cloth Towel 3 x 6 with Drops Pattern,4,3
+dupupn0107pr0003,Duplo Cloth Towel 3 x 6 with Yellow Stripes Pattern,4,3
 Eeyore,Duplo Figure Eeyore,57,1
 elephc01pb01,"Duplo Animal Elephant Baby Standing, Round Eye Print",4,1
 eraser07,"Eraser, Clikits White with 'Heart' Image Sleeve",48,1
@@ -34442,7 +34557,7 @@ fab004c01pr0001,Fabuland Figure Cat 2,57,1
 fab004c02pr0001,Fabuland Figure Cat 5,57,1
 fab004c03pr0001,Fabuland Figure Cat 3,57,1
 fab004c03pr0002,Fabuland Figure Cat 4,57,1
-fab005c01pr0001,Fabuland Figure Cow [Clover],57,1
+fab005c01pr0001,Fabuland Figure Cow [Clover/Clara],57,1
 fab006c01pr0001,Fabuland Figure Crocodile 1,57,1
 fab006c01pr0002,Fabuland Figure Crocodile 2,57,1
 fab007c01pr0001,Fabuland Figure Crow 1 with Aviator Helmet and Black Eyes,57,1
@@ -34695,11 +34810,11 @@ kkc72,"Knights Kingdom II Card, Tournament Arena - 72",17,1
 kkc73,"Knights Kingdom II Card, Citadel - 73",17,1
 kkc77,"Knights Kingdom II Card, Citadel - 77",17,1
 kkc78,"Knights Kingdom II Card, Shield Of Ages - 78",17,1
-kraata2,Bionicle Rahkshi Kraata Stage 2,41,1
-kraata3,Bionicle Rahkshi Kraata Stage 3,41,1
-kraata4,Bionicle Rahkshi Kraata Stage 4,41,1
-kraata5,Bionicle Rahkshi Kraata Stage 5,41,1
-kraata6,Bionicle Rahkshi Kraata Stage 6,41,1
+kraata2,"Large Figure Accessory, Rahkshi Kraata Stage 2",41,1
+kraata3,"Large Figure Accessory, Rahkshi Kraata Stage 3",41,1
+kraata4,"Large Figure Accessory, Rahkshi Kraata Stage 4",41,1
+kraata5,"Large Figure Accessory, Rahkshi Kraata Stage 5",41,1
+kraata6,"Large Figure Accessory, Rahkshi Kraata Stage 6",41,1
 kragle,Kragle,17,1
 legcast,"Belville, Clothes Child's Leg Cast",42,1
 legolas,Legless LEGO Legolas,13,1
@@ -34717,10 +34832,10 @@ mcgorm1,"Galidor Head Special, Gorm",59,1
 mcgorm2,Galidor- Gorm- torso & arms,60,1
 mcgorm3,Galidor- Gorm- hips & legs,61,1
 mcgorm4,Weapon Staff (Galidor- Gorm),27,1
-mcjens1,"Galidor, Promo Head Jens (from McDonald's set)",41,1
-mcjens2,"Galidor, Promo Torso and Arms Jens (from McDonald's set)",41,1
-mcjens3,"Galidor, Promo Legs Jens (from McDonald's set)",41,1
-mcjens4,"Galidor, Promo Staff, Jens' (from McDonald's set)",41,1
+mcjens1,Large Figure Head with Technic Pin,59,1
+mcjens2,Large Figure Torso and Arms,41,1
+mcjens3,Large Figure Legs,41,1
+mcjens4,"Large Figure Weapon, Staff",41,1
 mcsport3,Sports Promo Figure Head Torso Assembly McDonald's Set 3 (7917),13,1
 mcsport5,Sports Promo Figure Head Torso Assembly McDonald's Set 5 (7920),13,1
 mcsport6,Sports Promo Figure Head Torso Assembly McDonald's Set 6 (7922),13,1
@@ -34842,6 +34957,7 @@ scalaupn0020,"Scala Clothing Female Jacket with Light Pink Collar and Belt, Blue
 scalaupn0021,Scala Clothing Male Boxer Shorts with Blue Dots Print,42,3
 scalaupn0022pr01,Scala Cloth Pillow 5 x 5 Small with Checks and Cherries Print,42,3
 scalaupn0022pr02,Scala Cloth Pillow 5 x 5 Small with Blue Leaves and Red Berries Print,42,3
+scalaupn0022pr03,"Scala Cloth Pillow 5 x 5 Small, Flowers, Leaves, Dots",42,3
 scalaupn0023pr01,"Scala Cloth Bedspread with Pink Bow, Dark Pink Bows and Green Dots Print",42,3
 scalaupn0023pr02,Scala Cloth Bedspread 22x22 with Multi Color Circles on Orange Print,42,3
 scalaupn0024pr0001,Scala Cloth Curtain Window with Yellow Bow and Red Flower Print,42,3
@@ -34892,7 +35008,7 @@ scalaupn0067,Scala Female Skirt Long with X's and O's Print,42,1
 scalaupn0068,Scala Female Blouse Turtleneck with Rainbow Oval Print,42,1
 scalaupn0069,"Scala Female Sweater Open, Bolero",42,1
 scalaupn0070,Scala Female Youth Leotard with Yellow Dots Pattern,42,1
-scalaupn0071,Scala Clothing Female Skirt (Lace Trim),42,3
+scalaupn0071,Scala Clothing Female Skirt,42,3
 scalaupn0072,Scala Clothing Male Sweater V-Neck,42,3
 scalaupn0073,Scala Clothing Jeans with Red Stitching,42,3
 scalaupn0074,Jewelry Cord 23L with Yellow Beads,31,1
@@ -34918,7 +35034,8 @@ scalaupn0091,Scala Cloth Pillow Long 4 x 9,42,3
 scalaupn0092,Scala Figure Female Adult (Olivia),57,1
 scalaupn0093,"Scala Clothes Male Jacket with 2 Pockets, 2 Buttons and Collar",42,3
 scalaupn0094,Scala Clothes Female Nightgown,42,3
-scalaupn0095,"Clothes Baby Overalls, Blue Heart Top and Rainbow Striped Legs",42,3
+scalaupn0095pr01,"Clothes Baby Overalls, Blue Heart Top and Rainbow Striped Legs",42,3
+scalaupn0095pr02,"Clothes Baby Overalls, Blue Heart Top, Blue and Yellow Stripe Legs",42,3
 scalaupn0096,Scala Clothing Baby Pants / Diaper,42,3
 scalaupn0097,"Scala Clothing Female Strapless Dress, 3 Layered Skirt with Flower Print",42,3
 scalaupn0098,Scala Clothing Baby Shirt Plain,42,3
@@ -34927,7 +35044,8 @@ scalaupn0098pr02,Scala Clothing Baby Shirt with Green Squares and Lines Print,42
 scalaupn0099,Scala Clothing Baby Pants with Blue Dots,42,3
 scalaupn0100,Scala Clothing Female Shirt with Bow,42,3
 scalaupn0101,Scala Clothing Female Underwear,42,3
-scalaupn0102,Scala Sleeping Bag for Baby with Green Dots and Pink Bows,42,3
+scalaupn0102pr01,"Scala Sleeping Bag, Baby, Green Dots and Pink Bows",42,3
+scalaupn0102pr02,"Scala Sleeping Bag, Baby, Pink Butterflies and Green Dots",42,3
 scalaupn0103,Scala Cloth Pillow 7 x 8 with Ribbon Bow on Green Dots and Pink Bows,42,1
 scalaupn0104,Scala Clothing Female Dress with Red Flowers and Green Leaves,42,3
 scalaupn0105,Scala Clothing Female Blouse with Short Sleeves and Bottom Trim,42,3
@@ -34956,7 +35074,8 @@ scalaupn0126,Scala Utensil Hand Mirror,42,1
 scalaupn0127,Scala Curtain Rod 17L,42,1
 scalaupn0128,Support 2 x 2 x 8 Scala,42,1
 scalaupn0129,"Scala Clothes Female Dress, White Lace Top and Medium Blue Skirt with White Flowers",42,3
-scalaupn0130,Scala Baby Jacket with Collar,42,1
+scalaupn0130,Scala Baby Jacket with Collar,42,3
+scalaupn0131,Scala Foam Seat Cushion,42,1
 scalawallclip,Scala Curtain Rod or Wall Clip,42,1
 scl003,Scala Ring with 1 x 2 Plate - Size Medium,42,1
 scl004,Scala Ring with 1 x 2 Plate - Size Large,42,1
@@ -35100,21 +35219,11 @@ upn0034pr0003,"Sail, Bottom, 30 x 15 with Black Thick Stripes Print",38,3
 upn0035,Bin X -Large Dacta,17,1
 upn0036,Large Figure Weapon Gun with Ski,41,1
 upn0037,Car Base 6 x 20 x 1 with Motor Cutout and Cable Steering 4.5V,45,1
-upn0038,"Flower 6 x 6 Felt, Square Hole",17,3
 upn0039,"Animal Hamster with White Face, Whiskers, Back Pack (Hammond)",28,1
-upn0040,"Flower 4 x 4 Felt, Square Hole",17,3
 upn0041,"Big Figure Road Hog Black Vest, Sand Blue Legs",13,1
 upn0042,"Pencil Topper, Integrated 2x2 Plate",9,1
-upn0043,Felt Heart Large with Square Hole,38,3
 upn0046pr0001,"Wing, Tail, with Fire Logo Print (Fire Helicopter)",38,1
 upn0046pr0002,"Wing, Tail, with 'Police', Gold Star Print (PoliceHelicopter)",38,1
-upn0047,"Sail 33 x 17 Trapezium with 4 Holes, Red Stripes print",38,1
-upn0048,"Sail 36 x 20 Trapezium with 4 Holes, Red Stripes print",38,1
-upn0049,"Sail 19 x 17 Square with 4 Holes, Red Stripes print",38,1
-upn0050,"Sail Triangular 16 x 24 with 6 Holes, Red Stripes print",38,1
-upn0051,Minifig Pirate Hat with Bright Light Yellow Ponytail,65,1
-upn0052,Bar 1L with 3 Sprouts/Prongs,32,1
-upn0053,Hose Pneumatic 4 mm D V2 200mm,30,1
 upn0054,"Minifig Mace Windu, Light Up Light Saber",13,1
 upn0055,Minifig Anakin Skywalker with Light-up Lightsaber,13,1
 upn0056,Troll Clothing Loincloth,38,1
@@ -35133,30 +35242,9 @@ upn0062pr0001,"Minifig Arm with Pin, Black Hand print [PLAIN]",13,1
 upn0062pr0002,"Minifig Arm with Pin, White Hand print",13,1
 upn0062pr0003,"Minifig Arm with Pin, Black Hand, Black Line print",13,1
 upn0064,"Minion Head High, 2-Eyed Goggles, Smile print",13,1
-upn0065,"Minifig Hair Short, Swept Up with Red Head Band",65,1
-upn0065pr0001,"Minifig Hair Short, Swept Up with Red Head Band with Gold Trim/Decoration",65,1
-upn0066,Weapon Hilt Symmetric,27,1
-upn0067,Slope Wedge 4 x 4 with Rod,6,1
-upn0068,Minifig Hair Long with 2 Buns and Green Streaks,65,1
-upn0069,"Panel 2 x 6 x 6 with Slot, 4 Studs on Front",23,1
-upn0071,Neckware Accessorize Headphones,27,1
-upn0072,Wheel with Axle Hole,29,1
-upn0073,Weapon Blade (Monkie Kid),27,1
-upn0074,Helmet with Golden Ring through Nose (Monkie KId),65,1
-upn0076,Cloth  Coat Tail/Skirt,38,3
-upn0077,Minifig Hair Upright Ponytail with Orange Streak,65,1
-upn0078,"Minifig Head Special, Pig",62,1
-upn0079,Motorcycle Chassis Chopper,36,1
-upn0080,"Minifig Hair with Bun, 2 Horns, Golden Tiara",65,1
-upn0081,Cone 2 x 2 with Bend,20,1
-upn0082,Plastic Sheet with Gold Weapon,38,1
-upn0083,Cloth Cape,38,3
-upn0084,Cloth Cape Large,38,3
 upn0085,Plastic Sheet with Red/Dark Turquoise print,38,1
-upn0086,Minifig Neckwear Shoulder Cape,27,1
 upn0183,Sports Hockey Mask 1 with 4 Hole Grille (Set 3545),27,1
 upn074,"BigFig with White Pants, Magenta Beads, Orange Beard",13,1
-upn075,Ring 2 x 2,27,1
 vik028,Viking Red Chess Queen - Portions may be Glued,13,1
 vik029,Viking Blue Chess Queen - Portions may be Glued,13,1
 vik030,Viking Chess Piece Blue Rook - Glued,13,1
